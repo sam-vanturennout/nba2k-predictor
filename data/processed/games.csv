@@ -1,0 +1,801 @@
+game_id,data_type,mode,team_era,roster_reference,quarter_length_seconds,regulation_quarters,overtime_enabled,stamina_enabled,side_1_player_a,side_1_player_b,side_2_player_a,side_2_player_b,side_1_nba_team,side_2_nba_team,side_1_team_strength_assumed,side_2_team_strength_assumed,side_1_final_score,side_2_final_score,winner_side,side_1_wins,simulated_pre_game_p_side_1_win
+SIM0001,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Brian,Corwin,2015-16 Cleveland Cavaliers,1995-96 Chicago Bulls,93,97,50,35,1,1,0.6946
+SIM0002,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Paul,Max,Dbart,2013-14 San Antonio Spurs,1993-94 Houston Rockets,94,92,39,41,2,0,0.5233
+SIM0003,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Max,Corwin,Dbart,2011-12 New York Knicks,1970-71 Milwaukee Bucks,82,94,45,42,1,1,0.4292
+SIM0004,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Jackson,Dbart,2011-12 Oklahoma City Thunder,2013-14 San Antonio Spurs,91,94,42,45,2,0,0.3547
+SIM0005,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Brian,Max,1986-87 Los Angeles Lakers,1993-94 Houston Rockets,96,92,32,31,1,1,0.6763
+SIM0006,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Sam,Paul,Max,1997-98 Chicago Bulls,2011-12 Oklahoma City Thunder,94,91,32,37,2,0,0.3989
+SIM0007,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Corwin,Jackson,2015-16 Cleveland Cavaliers,1976-77 Philadelphia 76ers,93,89,33,36,2,0,0.4551
+SIM0008,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ryan,Max,Brian,2015-16 Golden State Warriors,2009-10 Portland Trail Blazers,95,82,28,41,2,0,0.6678
+SIM0009,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Corwin,Max,2006-07 Golden State Warriors,2006-07 Cleveland Cavaliers,83,86,43,49,2,0,0.4651
+SIM0010,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Ryan,Dbart,2015-16 Cleveland Cavaliers,1971-72 New York Knicks,93,88,50,38,1,1,0.6864
+SIM0011,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ben,Corwin,Paul,1970-71 Milwaukee Bucks,2003-04 Detroit Pistons,94,92,51,38,1,1,0.6759
+SIM0012,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Max,Jackson,Sam,1970-71 Milwaukee Bucks,2011-12 Oklahoma City Thunder,94,91,46,38,1,1,0.4436
+SIM0013,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Dbart,Jackson,1985-86 Atlanta Hawks,2018-19 Toronto Raptors,85,93,32,42,2,0,0.3033
+SIM0014,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Jackson,Brian,Max,2018-19 Toronto Raptors,2007-08 Denver Nuggets,93,85,46,33,1,1,0.6967
+SIM0015,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Dbart,Jackson,1991-92 Chicago Bulls,1971-72 New York Knicks,95,88,44,57,2,0,0.4444
+SIM0016,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Jackson,Ryan,Ben,1985-86 Atlanta Hawks,2010-11 Dallas Mavericks,85,91,49,46,1,1,0.5217
+SIM0017,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Paul,Brian,2005-06 Memphis Grizzlies,2018-19 Toronto Raptors,77,93,49,40,1,1,0.4061
+SIM0018,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Ryan,Paul,2015-16 Golden State Warriors,1985-86 Boston Celtics,95,96,37,33,1,1,0.4655
+SIM0019,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Corwin,Paul,2010-11 Dallas Mavericks,1991-92 Chicago Bulls,91,95,42,41,1,1,0.5221
+SIM0020,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Brian,Sam,2009-10 Portland Trail Blazers,2005-06 Miami Heat,82,90,30,34,2,0,0.5212
+SIM0021,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Ryan,Brian,2007-08 Denver Nuggets,1986-87 Los Angeles Lakers,85,96,35,34,1,1,0.5092
+SIM0022,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Corwin,Ben,1995-96 Chicago Bulls,2005-06 Miami Heat,97,90,36,37,2,0,0.5129
+SIM0023,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Sam,Corwin,1993-94 Houston Rockets,1985-86 Atlanta Hawks,92,85,51,34,1,1,0.5809
+SIM0024,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Ben,Corwin,Paul,2007-08 Boston Celtics,2016-17 Golden State Warriors,94,98,42,38,1,1,0.5449
+SIM0025,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Sam,Ryan,2010-11 Chicago Bulls,2000-01 Los Angeles Lakers,89,96,38,36,1,1,0.4191
+SIM0026,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Corwin,Max,Ryan,1970-71 Milwaukee Bucks,1997-98 Chicago Bulls,94,94,35,41,2,0,0.3245
+SIM0027,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ben,Jackson,Sam,2011-12 Oklahoma City Thunder,1997-98 Chicago Bulls,91,94,31,40,2,0,0.376
+SIM0028,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Sam,Max,Dbart,2007-08 Denver Nuggets,2000-01 Los Angeles Lakers,85,96,30,46,2,0,0.2932
+SIM0029,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Max,Ryan,Sam,1991-92 Chicago Bulls,2005-06 Miami Heat,95,90,44,46,2,0,0.5354
+SIM0030,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Ryan,Ben,Paul,1970-71 Milwaukee Bucks,2010-11 Chicago Bulls,94,89,31,32,2,0,0.5354
+SIM0031,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Ben,Brian,2016-17 Golden State Warriors,1985-86 Boston Celtics,98,96,32,29,1,1,0.6555
+SIM0032,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Dbart,Brian,2005-06 Memphis Grizzlies,2003-04 Detroit Pistons,77,92,40,36,1,1,0.5312
+SIM0033,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Corwin,Sam,Paul,2015-16 Golden State Warriors,2016-17 Golden State Warriors,95,98,35,26,1,1,0.3547
+SIM0034,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Max,Ben,Brian,2000-01 Los Angeles Lakers,1971-72 New York Knicks,96,88,47,38,1,1,0.6142
+SIM0035,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Brian,Ben,Ryan,1995-96 Chicago Bulls,2013-14 San Antonio Spurs,97,94,49,42,1,1,0.3989
+SIM0036,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Sam,Corwin,Ben,1976-77 Philadelphia 76ers,2016-17 Golden State Warriors,89,98,21,33,2,0,0.4411
+SIM0037,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Corwin,Brian,Ben,1985-86 Atlanta Hawks,1986-87 Los Angeles Lakers,85,96,23,25,2,0,0.2932
+SIM0038,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Max,Paul,Sam,2012-13 Miami Heat,2005-06 Miami Heat,94,90,38,30,1,1,0.5465
+SIM0039,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Brian,Sam,Ben,2018-19 Toronto Raptors,1995-96 Chicago Bulls,93,97,44,59,2,0,0.2491
+SIM0040,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Sam,Paul,Ben,2012-13 Miami Heat,1971-72 New York Knicks,94,88,37,36,1,1,0.4106
+SIM0041,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Max,Brian,2006-07 Golden State Warriors,2006-07 Cleveland Cavaliers,83,86,43,30,1,1,0.5564
+SIM0042,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Corwin,Max,Paul,2007-08 Boston Celtics,2012-13 Miami Heat,94,94,34,48,2,0,0.4317
+SIM0043,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Ryan,Sam,2016-17 Golden State Warriors,1970-71 Milwaukee Bucks,98,94,53,31,1,1,0.6349
+SIM0044,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Paul,Brian,Corwin,1993-94 Houston Rockets,2016-17 Golden State Warriors,92,98,45,39,1,1,0.5894
+SIM0045,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Corwin,Ryan,Brian,2015-16 Golden State Warriors,2007-08 Boston Celtics,95,94,44,53,2,0,0.5117
+SIM0046,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Brian,Jackson,Max,2015-16 Golden State Warriors,1970-71 Milwaukee Bucks,95,94,29,52,2,0,0.2414
+SIM0047,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Ben,Dbart,2013-14 San Antonio Spurs,2000-01 Los Angeles Lakers,94,96,31,37,2,0,0.5679
+SIM0048,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Brian,Jackson,Ben,2011-12 New York Knicks,2006-07 Cleveland Cavaliers,82,86,27,46,2,0,0.1869
+SIM0049,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Dbart,Sam,2011-12 Oklahoma City Thunder,2005-06 Memphis Grizzlies,91,77,39,40,2,0,0.6154
+SIM0050,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Paul,Corwin,1970-71 Milwaukee Bucks,1985-86 Atlanta Hawks,94,85,49,29,1,1,0.5814
+SIM0051,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Jackson,Brian,Ryan,1985-86 Atlanta Hawks,1976-77 Philadelphia 76ers,85,89,47,27,1,1,0.6946
+SIM0052,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Brian,Sam,1995-96 Chicago Bulls,2007-08 Boston Celtics,97,94,19,27,2,0,0.6023
+SIM0053,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Max,Brian,1985-86 Atlanta Hawks,2012-13 Miami Heat,85,94,40,43,2,0,0.4411
+SIM0054,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Paul,Brian,Ryan,2000-01 Los Angeles Lakers,2013-14 San Antonio Spurs,96,94,38,46,2,0,0.5911
+SIM0055,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Sam,Max,Corwin,2007-08 Denver Nuggets,1995-96 Chicago Bulls,85,97,26,46,2,0,0.3426
+SIM0056,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Jackson,Dbart,2012-13 Miami Heat,2000-01 Los Angeles Lakers,94,96,39,29,1,1,0.4313
+SIM0057,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Paul,Jackson,1991-92 Chicago Bulls,2009-10 Portland Trail Blazers,95,82,50,31,1,1,0.5142
+SIM0058,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Dbart,Jackson,Paul,2015-16 Golden State Warriors,1976-77 Philadelphia 76ers,95,89,29,50,2,0,0.4783
+SIM0059,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Corwin,Sam,Dbart,2010-11 Dallas Mavericks,2015-16 Cleveland Cavaliers,91,93,42,40,1,1,0.5225
+SIM0060,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Sam,Ryan,Corwin,2003-04 Detroit Pistons,2015-16 Golden State Warriors,92,95,28,38,2,0,0.5789
+SIM0061,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Max,Ryan,2015-16 Cleveland Cavaliers,2006-07 Golden State Warriors,93,83,42,37,1,1,0.6146
+SIM0062,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Max,Ben,2016-17 Golden State Warriors,2011-12 New York Knicks,98,82,52,54,2,0,0.5033
+SIM0063,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Dbart,Corwin,2007-08 Denver Nuggets,1986-87 Los Angeles Lakers,85,96,23,19,1,1,0.4863
+SIM0064,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Jackson,Ryan,2018-19 Toronto Raptors,2000-01 Los Angeles Lakers,93,96,43,35,1,1,0.2759
+SIM0065,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Paul,Brian,Sam,1985-86 Boston Celtics,1991-92 Chicago Bulls,96,95,48,41,1,1,0.6656
+SIM0066,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Ben,Paul,2000-01 Los Angeles Lakers,2011-12 Oklahoma City Thunder,96,91,36,49,2,0,0.5125
+SIM0067,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Jackson,Paul,2013-14 San Antonio Spurs,1997-98 Chicago Bulls,94,94,35,36,2,0,0.3245
+SIM0068,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Brian,Sam,Jackson,2006-07 Cleveland Cavaliers,1985-86 Atlanta Hawks,86,85,28,34,2,0,0.2953
+SIM0069,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Brian,Ryan,Max,1970-71 Milwaukee Bucks,2005-06 Memphis Grizzlies,94,77,27,33,2,0,0.515
+SIM0070,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Dbart,Ryan,Jackson,1991-92 Chicago Bulls,2012-13 Miami Heat,95,94,35,48,2,0,0.4207
+SIM0071,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Paul,Sam,Max,2018-19 Toronto Raptors,1971-72 New York Knicks,93,88,46,48,2,0,0.5125
+SIM0072,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Brian,Max,Ben,2010-11 Dallas Mavericks,2018-19 Toronto Raptors,91,93,45,46,2,0,0.2494
+SIM0073,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Max,Corwin,Ben,2015-16 Golden State Warriors,2000-01 Los Angeles Lakers,95,96,27,45,2,0,0.4428
+SIM0074,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Dbart,Max,Sam,2006-07 Cleveland Cavaliers,1993-94 Houston Rockets,86,92,45,56,2,0,0.4305
+SIM0075,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Brian,Jackson,Corwin,1971-72 New York Knicks,1976-77 Philadelphia 76ers,88,89,29,39,2,0,0.4203
+SIM0076,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Max,Dbart,Ryan,2010-11 Chicago Bulls,2006-07 Golden State Warriors,89,83,50,36,1,1,0.5919
+SIM0077,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Ben,Sam,2006-07 Cleveland Cavaliers,2007-08 Denver Nuggets,86,85,34,51,2,0,0.3768
+SIM0078,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Ben,Max,Jackson,2006-07 Golden State Warriors,2013-14 San Antonio Spurs,83,94,25,39,2,0,0.2932
+SIM0079,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Dbart,Ryan,Paul,2000-01 Los Angeles Lakers,2007-08 Denver Nuggets,96,85,31,40,2,0,0.6256
+SIM0080,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Paul,Sam,2006-07 Golden State Warriors,1985-86 Atlanta Hawks,83,85,47,38,1,1,0.4767
+SIM0081,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ryan,Sam,Dbart,2010-11 Chicago Bulls,1986-87 Los Angeles Lakers,89,96,39,52,2,0,0.354
+SIM0082,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ryan,Corwin,Dbart,1985-86 Boston Celtics,2011-12 Oklahoma City Thunder,96,91,53,42,1,1,0.6864
+SIM0083,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Brian,Jackson,Ben,1985-86 Boston Celtics,2018-19 Toronto Raptors,96,93,35,47,2,0,0.2956
+SIM0084,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Sam,Paul,2007-08 Denver Nuggets,2013-14 Indiana Pacers,85,88,45,43,1,1,0.4199
+SIM0085,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Corwin,Ben,2015-16 Golden State Warriors,2013-14 San Antonio Spurs,95,94,36,29,1,1,0.4432
+SIM0086,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Ben,Dbart,1971-72 New York Knicks,1997-98 Chicago Bulls,88,94,43,32,1,1,0.4988
+SIM0087,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Max,Sam,2009-10 Portland Trail Blazers,2016-17 Golden State Warriors,82,98,41,47,2,0,0.2306
+SIM0088,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ben,Jackson,Ryan,2000-01 Los Angeles Lakers,2018-19 Toronto Raptors,96,93,64,44,1,1,0.5577
+SIM0089,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Dbart,Corwin,Ben,2013-14 Indiana Pacers,2000-01 Los Angeles Lakers,88,96,38,40,2,0,0.3858
+SIM0090,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Jackson,Dbart,2007-08 Denver Nuggets,1970-71 Milwaukee Bucks,85,94,34,33,1,1,0.4186
+SIM0091,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Max,Sam,Brian,2010-11 Dallas Mavericks,1991-92 Chicago Bulls,91,95,36,26,1,1,0.6748
+SIM0092,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Sam,Ryan,2006-07 Cleveland Cavaliers,2010-11 Dallas Mavericks,86,91,38,44,2,0,0.4419
+SIM0093,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Jackson,Ben,Dbart,2013-14 San Antonio Spurs,1993-94 Houston Rockets,94,92,26,29,2,0,0.5004
+SIM0094,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Max,Dbart,Paul,1995-96 Chicago Bulls,2006-07 Golden State Warriors,97,83,35,29,1,1,0.7691
+SIM0095,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Max,Ryan,Corwin,2000-01 Los Angeles Lakers,2007-08 Denver Nuggets,96,85,39,32,1,1,0.7068
+SIM0096,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Max,Brian,Paul,1976-77 Philadelphia 76ers,1991-92 Chicago Bulls,89,95,44,46,2,0,0.5445
+SIM0097,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Corwin,Sam,2005-06 Memphis Grizzlies,1995-96 Chicago Bulls,77,97,50,53,2,0,0.2822
+SIM0098,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Jackson,Sam,1991-92 Chicago Bulls,2013-14 Indiana Pacers,95,88,61,31,1,1,0.4219
+SIM0099,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Ryan,Brian,2006-07 Cleveland Cavaliers,1991-92 Chicago Bulls,86,95,47,39,1,1,0.4867
+SIM0100,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Corwin,Paul,2013-14 Indiana Pacers,1985-86 Boston Celtics,88,96,45,37,1,1,0.4526
+SIM0101,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Ben,Brian,1971-72 New York Knicks,1995-96 Chicago Bulls,88,97,38,48,2,0,0.4411
+SIM0102,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Ryan,Dbart,2009-10 Portland Trail Blazers,2005-06 Memphis Grizzlies,82,77,25,26,2,0,0.6457
+SIM0103,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Ryan,Ben,1971-72 New York Knicks,2006-07 Golden State Warriors,88,83,46,41,1,1,0.3775
+SIM0104,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Ryan,Ben,2013-14 San Antonio Spurs,2006-07 Golden State Warriors,94,83,64,38,1,1,0.6039
+SIM0105,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Jackson,Ryan,Ben,2011-12 New York Knicks,1970-71 Milwaukee Bucks,82,94,40,42,2,0,0.4518
+SIM0106,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Ben,Jackson,1970-71 Milwaukee Bucks,2010-11 Chicago Bulls,94,89,44,36,1,1,0.3563
+SIM0107,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Brian,Dbart,2013-14 San Antonio Spurs,2018-19 Toronto Raptors,94,93,39,40,2,0,0.6656
+SIM0108,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Sam,Jackson,2006-07 Cleveland Cavaliers,2006-07 Golden State Warriors,86,83,40,44,2,0,0.5349
+SIM0109,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Sam,Paul,Ben,2012-13 Miami Heat,1970-71 Milwaukee Bucks,94,94,24,34,2,0,0.3659
+SIM0110,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Ryan,Brian,2007-08 Denver Nuggets,2007-08 Boston Celtics,85,94,46,41,1,1,0.5777
+SIM0111,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Paul,Brian,1995-96 Chicago Bulls,2006-07 Golden State Warriors,97,83,40,27,1,1,0.735
+SIM0112,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Sam,Paul,Brian,2009-10 Portland Trail Blazers,1995-96 Chicago Bulls,82,97,27,42,2,0,0.4399
+SIM0113,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Dbart,Paul,2010-11 Dallas Mavericks,2003-04 Detroit Pistons,91,92,35,45,2,0,0.6652
+SIM0114,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Dbart,Sam,Jackson,2010-11 Dallas Mavericks,1995-96 Chicago Bulls,91,97,26,30,2,0,0.3647
+SIM0115,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Corwin,Dbart,2016-17 Golden State Warriors,1985-86 Atlanta Hawks,98,85,36,46,2,0,0.6878
+SIM0116,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Paul,Corwin,Ben,2003-04 Detroit Pistons,2018-19 Toronto Raptors,92,93,41,32,1,1,0.5568
+SIM0117,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Max,Paul,2009-10 Portland Trail Blazers,1997-98 Chicago Bulls,82,94,28,53,2,0,0.4518
+SIM0118,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Brian,Ryan,Paul,1991-92 Chicago Bulls,1993-94 Houston Rockets,95,92,27,47,2,0,0.3771
+SIM0119,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Brian,Paul,2007-08 Denver Nuggets,1970-71 Milwaukee Bucks,85,94,40,23,1,1,0.3965
+SIM0120,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Max,Ryan,Sam,1976-77 Philadelphia 76ers,1991-92 Chicago Bulls,89,95,57,38,1,1,0.5671
+SIM0121,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Ben,Max,1997-98 Chicago Bulls,1985-86 Boston Celtics,94,96,31,35,2,0,0.2853
+SIM0122,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Brian,Dbart,2018-19 Toronto Raptors,1991-92 Chicago Bulls,93,95,42,37,1,1,0.5903
+SIM0123,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Paul,Brian,2011-12 Oklahoma City Thunder,2010-11 Chicago Bulls,91,89,43,51,2,0,0.613
+SIM0124,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Dbart,Ryan,2018-19 Toronto Raptors,2006-07 Cleveland Cavaliers,93,86,56,37,1,1,0.7761
+SIM0125,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ryan,Corwin,Paul,2013-14 Indiana Pacers,1985-86 Atlanta Hawks,88,85,26,30,2,0,0.5577
+SIM0126,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Corwin,Dbart,Ben,2018-19 Toronto Raptors,2009-10 Portland Trail Blazers,93,82,40,43,2,0,0.5137
+SIM0127,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Max,Ryan,2006-07 Cleveland Cavaliers,2011-12 New York Knicks,86,82,48,30,1,1,0.6763
+SIM0128,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Sam,Paul,2009-10 Portland Trail Blazers,2003-04 Detroit Pistons,82,92,50,39,1,1,0.4073
+SIM0129,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Ryan,Paul,2006-07 Golden State Warriors,2009-10 Portland Trail Blazers,83,82,48,29,1,1,0.5797
+SIM0130,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Brian,Ryan,2007-08 Boston Celtics,1993-94 Houston Rockets,94,92,34,50,2,0,0.6555
+SIM0131,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Jackson,Sam,2015-16 Cleveland Cavaliers,2000-01 Los Angeles Lakers,93,96,19,49,2,0,0.4199
+SIM0132,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Ryan,Corwin,Paul,2009-10 Portland Trail Blazers,2010-11 Chicago Bulls,82,89,45,37,1,1,0.5329
+SIM0133,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Max,Brian,1997-98 Chicago Bulls,1970-71 Milwaukee Bucks,94,94,39,47,2,0,0.5
+SIM0134,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Sam,Max,1986-87 Los Angeles Lakers,2011-12 New York Knicks,96,82,41,33,1,1,0.7524
+SIM0135,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Corwin,Jackson,Dbart,2005-06 Memphis Grizzlies,1985-86 Boston Celtics,77,96,37,56,2,0,0.2067
+SIM0136,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Dbart,Ben,2011-12 Oklahoma City Thunder,1985-86 Boston Celtics,91,96,33,28,1,1,0.4419
+SIM0137,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Corwin,Sam,1970-71 Milwaukee Bucks,1976-77 Philadelphia 76ers,94,89,36,42,2,0,0.6457
+SIM0138,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Max,Paul,Jackson,1995-96 Chicago Bulls,2016-17 Golden State Warriors,97,98,39,44,2,0,0.3764
+SIM0139,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Jackson,Dbart,1985-86 Atlanta Hawks,2005-06 Memphis Grizzlies,85,77,38,35,1,1,0.5246
+SIM0140,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Ben,Jackson,1986-87 Los Angeles Lakers,2013-14 Indiana Pacers,96,88,42,28,1,1,0.4559
+SIM0141,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Ryan,Dbart,2013-14 San Antonio Spurs,1986-87 Los Angeles Lakers,94,96,47,37,1,1,0.6949
+SIM0142,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Dbart,Max,Brian,2000-01 Los Angeles Lakers,2013-14 San Antonio Spurs,96,94,48,49,2,0,0.613
+SIM0143,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ryan,Paul,Max,2015-16 Golden State Warriors,1986-87 Los Angeles Lakers,95,96,43,45,2,0,0.3981
+SIM0144,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Sam,Ryan,2010-11 Chicago Bulls,1985-86 Boston Celtics,89,96,52,38,1,1,0.4871
+SIM0145,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Corwin,Max,2003-04 Detroit Pistons,2012-13 Miami Heat,92,94,33,23,1,1,0.5679
+SIM0146,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ben,Sam,Ryan,2010-11 Chicago Bulls,2015-16 Cleveland Cavaliers,89,93,31,42,2,0,0.4535
+SIM0147,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Corwin,Paul,1985-86 Atlanta Hawks,1993-94 Houston Rockets,85,92,39,50,2,0,0.3969
+SIM0148,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Max,Sam,2011-12 Oklahoma City Thunder,1986-87 Los Angeles Lakers,91,96,55,54,1,1,0.3136
+SIM0149,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Brian,Ryan,2013-14 San Antonio Spurs,2005-06 Memphis Grizzlies,94,77,44,41,1,1,0.793
+SIM0150,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Max,Ryan,2015-16 Cleveland Cavaliers,1971-72 New York Knicks,93,88,33,46,2,0,0.4667
+SIM0151,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Max,Ben,2010-11 Chicago Bulls,2000-01 Los Angeles Lakers,89,96,44,41,1,1,0.3969
+SIM0152,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Brian,Paul,Jackson,2018-19 Toronto Raptors,2010-11 Chicago Bulls,93,89,44,46,2,0,0.3882
+SIM0153,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Ben,Dbart,2010-11 Chicago Bulls,1995-96 Chicago Bulls,89,97,50,36,1,1,0.4983
+SIM0154,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ben,Brian,Sam,2011-12 New York Knicks,1997-98 Chicago Bulls,82,94,31,27,1,1,0.5659
+SIM0155,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Brian,Sam,2012-13 Miami Heat,2000-01 Los Angeles Lakers,94,96,39,49,2,0,0.714
+SIM0156,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Dbart,Corwin,Max,1985-86 Atlanta Hawks,2010-11 Chicago Bulls,85,89,54,37,1,1,0.4992
+SIM0157,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Ryan,Max,1976-77 Philadelphia 76ers,1985-86 Boston Celtics,89,96,28,48,2,0,0.3333
+SIM0158,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Ben,Corwin,2000-01 Los Angeles Lakers,1970-71 Milwaukee Bucks,96,94,42,32,1,1,0.5461
+SIM0159,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Paul,Max,Ben,2009-10 Portland Trail Blazers,2011-12 Oklahoma City Thunder,82,91,31,49,2,0,0.2749
+SIM0160,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Sam,Corwin,Ryan,2013-14 Indiana Pacers,2007-08 Denver Nuggets,88,85,50,41,1,1,0.5801
+SIM0161,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Jackson,Dbart,Max,1997-98 Chicago Bulls,2011-12 New York Knicks,94,82,35,28,1,1,0.7164
+SIM0162,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Brian,Max,Ben,2000-01 Los Angeles Lakers,2007-08 Boston Celtics,96,94,33,56,2,0,0.3248
+SIM0163,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Ben,Brian,2007-08 Boston Celtics,1997-98 Chicago Bulls,94,94,34,41,2,0,0.4771
+SIM0164,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Jackson,Ryan,2016-17 Golden State Warriors,1993-94 Houston Rockets,98,92,42,35,1,1,0.4329
+SIM0165,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Corwin,Paul,Dbart,2000-01 Los Angeles Lakers,2006-07 Golden State Warriors,96,83,41,36,1,1,0.6043
+SIM0166,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Dbart,Brian,2010-11 Chicago Bulls,1993-94 Houston Rockets,89,92,42,20,1,1,0.685
+SIM0167,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Brian,Max,1976-77 Philadelphia 76ers,2010-11 Dallas Mavericks,89,91,39,47,2,0,0.5679
+SIM0168,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Ben,Jackson,2016-17 Golden State Warriors,2007-08 Boston Celtics,98,94,44,38,1,1,0.3666
+SIM0169,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Brian,Corwin,1985-86 Boston Celtics,2007-08 Denver Nuggets,96,85,55,35,1,1,0.7922
+SIM0170,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Dbart,Corwin,Brian,2003-04 Detroit Pistons,1976-77 Philadelphia 76ers,92,89,58,26,1,1,0.686
+SIM0171,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Brian,Ben,2005-06 Miami Heat,2013-14 Indiana Pacers,90,88,32,33,2,0,0.4775
+SIM0172,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Jackson,Paul,Ryan,2018-19 Toronto Raptors,1970-71 Milwaukee Bucks,93,94,47,36,1,1,0.4883
+SIM0173,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Sam,Paul,Jackson,2015-16 Cleveland Cavaliers,2007-08 Boston Celtics,93,94,42,40,1,1,0.4203
+SIM0174,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Brian,Max,2007-08 Boston Celtics,1985-86 Atlanta Hawks,94,85,28,53,2,0,0.5589
+SIM0175,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Brian,Max,Sam,2006-07 Golden State Warriors,2005-06 Memphis Grizzlies,83,77,31,50,2,0,0.5012
+SIM0176,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Corwin,Max,Jackson,1976-77 Philadelphia 76ers,2010-11 Chicago Bulls,89,89,34,54,2,0,0.2673
+SIM0177,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Dbart,Corwin,2015-16 Cleveland Cavaliers,2007-08 Denver Nuggets,93,85,43,24,1,1,0.6967
+SIM0178,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Paul,Ryan,Ben,2005-06 Memphis Grizzlies,2006-07 Cleveland Cavaliers,77,86,46,55,2,0,0.4638
+SIM0179,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Corwin,Jackson,2010-11 Chicago Bulls,1986-87 Los Angeles Lakers,89,96,35,29,1,1,0.4415
+SIM0180,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ryan,Paul,Ben,1976-77 Philadelphia 76ers,2018-19 Toronto Raptors,89,93,42,58,2,0,0.2667
+SIM0181,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Dbart,Paul,Sam,2010-11 Dallas Mavericks,2013-14 Indiana Pacers,91,88,35,39,2,0,0.5577
+SIM0182,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Brian,Ben,2015-16 Golden State Warriors,2011-12 New York Knicks,95,82,52,42,1,1,0.6678
+SIM0183,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Ben,Jackson,Dbart,2000-01 Los Angeles Lakers,1976-77 Philadelphia 76ers,96,89,22,33,2,0,0.5809
+SIM0184,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Dbart,Paul,Jackson,1997-98 Chicago Bulls,2005-06 Memphis Grizzlies,94,77,53,50,1,1,0.5378
+SIM0185,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Brian,Ben,Paul,2007-08 Denver Nuggets,2009-10 Portland Trail Blazers,85,82,45,49,2,0,0.3351
+SIM0186,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Dbart,Corwin,Sam,2006-07 Golden State Warriors,1997-98 Chicago Bulls,83,94,41,30,1,1,0.4407
+SIM0187,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ben,Corwin,Jackson,1991-92 Chicago Bulls,1997-98 Chicago Bulls,95,94,42,38,1,1,0.4659
+SIM0188,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ryan,Sam,Paul,1995-96 Chicago Bulls,1971-72 New York Knicks,97,88,42,56,2,0,0.4675
+SIM0189,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ryan,Corwin,Paul,1991-92 Chicago Bulls,2010-11 Chicago Bulls,95,89,32,40,2,0,0.6353
+SIM0190,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Paul,Corwin,1985-86 Atlanta Hawks,1971-72 New York Knicks,85,88,47,42,1,1,0.5564
+SIM0191,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Dbart,Jackson,2015-16 Cleveland Cavaliers,2018-19 Toronto Raptors,93,93,38,45,2,0,0.5229
+SIM0192,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Jackson,Max,Sam,2007-08 Denver Nuggets,1985-86 Boston Celtics,85,96,34,42,2,0,0.3326
+SIM0193,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Corwin,Sam,1995-96 Chicago Bulls,1985-86 Atlanta Hawks,97,85,39,33,1,1,0.8141
+SIM0194,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Brian,Dbart,2006-07 Cleveland Cavaliers,2013-14 San Antonio Spurs,86,94,21,35,2,0,0.5441
+SIM0195,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Max,Corwin,2015-16 Golden State Warriors,2013-14 San Antonio Spurs,95,94,38,36,1,1,0.5572
+SIM0196,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Max,Jackson,Ben,2011-12 New York Knicks,2007-08 Denver Nuggets,82,85,28,46,2,0,0.3547
+SIM0197,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Brian,Paul,Ben,1971-72 New York Knicks,1985-86 Boston Celtics,88,96,42,47,2,0,0.2159
+SIM0198,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Jackson,Brian,1995-96 Chicago Bulls,2006-07 Golden State Warriors,97,83,58,41,1,1,0.6781
+SIM0199,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Paul,Sam,2007-08 Denver Nuggets,2005-06 Memphis Grizzlies,85,77,43,49,2,0,0.57
+SIM0200,synthetic,2v2,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Max,Paul,Ryan,2018-19 Toronto Raptors,2016-17 Golden State Warriors,93,98,38,31,1,1,0.5785
+SIM0201,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Chris,,Ben,,2003-04 Detroit Pistons,2013-14 San Antonio Spurs,92,94,30,47,2,0,0.2015
+SIM0202,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Max,,2010-11 Chicago Bulls,1997-98 Chicago Bulls,89,94,37,47,2,0,0.18
+SIM0203,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Corwin,,1995-96 Chicago Bulls,2010-11 Chicago Bulls,97,89,37,34,1,1,0.7841
+SIM0204,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Brian,,1985-86 Atlanta Hawks,1986-87 Los Angeles Lakers,85,96,34,31,1,1,0.5548
+SIM0205,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Corwin,,2003-04 Detroit Pistons,1986-87 Los Angeles Lakers,92,96,41,32,1,1,0.6748
+SIM0206,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,1993-94 Houston Rockets,1976-77 Philadelphia 76ers,92,89,50,41,1,1,0.666
+SIM0207,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ryan,,2012-13 Miami Heat,1976-77 Philadelphia 76ers,94,89,39,43,2,0,0.4215
+SIM0208,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,2013-14 San Antonio Spurs,1991-92 Chicago Bulls,94,95,40,55,2,0,0.3551
+SIM0209,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,2013-14 San Antonio Spurs,2007-08 Denver Nuggets,94,85,32,36,2,0,0.8684
+SIM0210,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Paul,,2010-11 Chicago Bulls,2011-12 New York Knicks,89,82,46,38,1,1,0.6248
+SIM0211,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Brian,,1985-86 Atlanta Hawks,1970-71 Milwaukee Bucks,85,94,41,44,2,0,0.7034
+SIM0212,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,2006-07 Cleveland Cavaliers,2015-16 Golden State Warriors,86,95,33,42,2,0,0.3536
+SIM0213,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,1995-96 Chicago Bulls,2016-17 Golden State Warriors,97,98,30,45,2,0,0.3143
+SIM0214,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,2010-11 Chicago Bulls,1976-77 Philadelphia 76ers,89,89,23,44,2,0,0.3245
+SIM0215,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Max,,2015-16 Cleveland Cavaliers,2010-11 Chicago Bulls,93,89,25,40,2,0,0.2504
+SIM0216,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Jackson,,2003-04 Detroit Pistons,2010-11 Dallas Mavericks,92,91,35,33,1,1,0.3768
+SIM0217,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,2018-19 Toronto Raptors,2005-06 Memphis Grizzlies,93,77,43,36,1,1,0.9014
+SIM0218,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Sam,,2005-06 Memphis Grizzlies,2012-13 Miami Heat,77,94,39,45,2,0,0.2736
+SIM0219,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Brian,,1976-77 Philadelphia 76ers,2003-04 Detroit Pistons,89,92,29,33,2,0,0.5108
+SIM0220,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Paul,,1991-92 Chicago Bulls,1993-94 Houston Rockets,95,92,32,44,2,0,0.7054
+SIM0221,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,2005-06 Memphis Grizzlies,2007-08 Denver Nuggets,77,85,41,31,1,1,0.6326
+SIM0222,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,1976-77 Philadelphia 76ers,2007-08 Denver Nuggets,89,85,41,37,1,1,0.4551
+SIM0223,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,2013-14 San Antonio Spurs,2011-12 New York Knicks,94,82,52,40,1,1,0.5482
+SIM0224,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Dbart,,2005-06 Miami Heat,1976-77 Philadelphia 76ers,90,89,48,19,1,1,0.7589
+SIM0225,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,1995-96 Chicago Bulls,2003-04 Detroit Pistons,97,92,37,39,2,0,0.2592
+SIM0226,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,2012-13 Miami Heat,2000-01 Los Angeles Lakers,94,96,29,39,2,0,0.4313
+SIM0227,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ben,,2011-12 New York Knicks,2006-07 Cleveland Cavaliers,82,86,35,41,2,0,0.5449
+SIM0228,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,2010-11 Dallas Mavericks,1991-92 Chicago Bulls,91,95,34,43,2,0,0.5449
+SIM0229,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Paul,,2000-01 Los Angeles Lakers,2005-06 Miami Heat,96,90,39,40,2,0,0.6964
+SIM0230,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Paul,,2005-06 Memphis Grizzlies,2006-07 Cleveland Cavaliers,77,86,33,41,2,0,0.3129
+SIM0231,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Corwin,,1985-86 Boston Celtics,2007-08 Denver Nuggets,96,85,41,52,2,0,0.6674
+SIM0232,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Paul,,2010-11 Dallas Mavericks,2007-08 Boston Celtics,91,94,41,38,1,1,0.5108
+SIM0233,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Dbart,,2012-13 Miami Heat,2006-07 Cleveland Cavaliers,94,86,41,46,2,0,0.7515
+SIM0234,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ryan,,2006-07 Cleveland Cavaliers,2012-13 Miami Heat,86,94,23,41,2,0,0.2843
+SIM0235,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,2010-11 Dallas Mavericks,2013-14 Indiana Pacers,91,88,33,34,2,0,0.315
+SIM0236,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Corwin,,2012-13 Miami Heat,2009-10 Portland Trail Blazers,94,82,55,44,1,1,0.7847
+SIM0237,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Paul,,1991-92 Chicago Bulls,2015-16 Golden State Warriors,95,95,32,57,2,0,0.5907
+SIM0238,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Max,,1986-87 Los Angeles Lakers,2016-17 Golden State Warriors,96,98,35,39,2,0,0.3445
+SIM0239,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Ryan,,2018-19 Toronto Raptors,1995-96 Chicago Bulls,93,97,36,20,1,1,0.5898
+SIM0240,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,1997-98 Chicago Bulls,1986-87 Los Angeles Lakers,94,96,51,40,1,1,0.267
+SIM0241,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Sam,,1985-86 Boston Celtics,1995-96 Chicago Bulls,96,97,37,24,1,1,0.5341
+SIM0242,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Brian,,2013-14 San Antonio Spurs,2009-10 Portland Trail Blazers,94,82,42,26,1,1,0.6777
+SIM0243,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Brian,,2013-14 Indiana Pacers,1976-77 Philadelphia 76ers,88,89,38,42,2,0,0.6232
+SIM0244,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Dbart,,1986-87 Los Angeles Lakers,2016-17 Golden State Warriors,96,98,39,47,2,0,0.6548
+SIM0245,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Corwin,,1991-92 Chicago Bulls,2009-10 Portland Trail Blazers,95,82,50,45,1,1,0.6043
+SIM0246,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Brian,,1995-96 Chicago Bulls,2006-07 Cleveland Cavaliers,97,86,37,25,1,1,0.7068
+SIM0247,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Max,,1995-96 Chicago Bulls,2009-10 Portland Trail Blazers,97,82,39,41,2,0,0.4013
+SIM0248,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Dbart,,2010-11 Dallas Mavericks,2000-01 Los Angeles Lakers,91,96,44,26,1,1,0.3543
+SIM0249,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,2009-10 Portland Trail Blazers,2005-06 Memphis Grizzlies,82,77,27,41,2,0,0.3775
+SIM0250,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,2005-06 Memphis Grizzlies,2006-07 Cleveland Cavaliers,77,86,31,36,2,0,0.2399
+SIM0251,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,2003-04 Detroit Pistons,2016-17 Golden State Warriors,92,98,30,46,2,0,0.5217
+SIM0252,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ben,,2016-17 Golden State Warriors,1971-72 New York Knicks,98,88,34,31,1,1,0.525
+SIM0253,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ryan,,2013-14 Indiana Pacers,2009-10 Portland Trail Blazers,88,82,36,33,1,1,0.4783
+SIM0254,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ben,,2005-06 Miami Heat,2006-07 Cleveland Cavaliers,90,86,44,46,2,0,0.5008
+SIM0255,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Paul,,1976-77 Philadelphia 76ers,2006-07 Cleveland Cavaliers,89,86,36,35,1,1,0.666
+SIM0256,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Brian,,2005-06 Miami Heat,2015-16 Cleveland Cavaliers,90,93,46,42,1,1,0.6441
+SIM0257,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,2016-17 Golden State Warriors,1995-96 Chicago Bulls,98,97,39,42,2,0,0.4207
+SIM0258,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Dbart,,1976-77 Philadelphia 76ers,2006-07 Golden State Warriors,89,83,47,38,1,1,0.4783
+SIM0259,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Max,,2000-01 Los Angeles Lakers,2009-10 Portland Trail Blazers,96,82,40,27,1,1,0.6978
+SIM0260,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ben,,2009-10 Portland Trail Blazers,2006-07 Golden State Warriors,82,83,31,42,2,0,0.2411
+SIM0261,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Dbart,,2000-01 Los Angeles Lakers,2015-16 Golden State Warriors,96,95,37,48,2,0,0.4207
+SIM0262,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Brian,,2011-12 New York Knicks,1993-94 Houston Rockets,82,92,51,39,1,1,0.6532
+SIM0263,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ryan,,2015-16 Golden State Warriors,2000-01 Los Angeles Lakers,95,96,34,38,2,0,0.6652
+SIM0264,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ben,,1986-87 Los Angeles Lakers,2013-14 San Antonio Spurs,96,94,44,40,1,1,0.4775
+SIM0265,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Sam,,2010-11 Dallas Mavericks,2013-14 Indiana Pacers,91,88,50,40,1,1,0.666
+SIM0266,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Dbart,,2018-19 Toronto Raptors,2011-12 Oklahoma City Thunder,93,91,44,35,1,1,0.4321
+SIM0267,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,2011-12 New York Knicks,1971-72 New York Knicks,82,88,36,46,2,0,0.201
+SIM0268,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,1976-77 Philadelphia 76ers,1997-98 Chicago Bulls,89,94,26,44,2,0,0.2086
+SIM0269,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,2010-11 Chicago Bulls,2006-07 Cleveland Cavaliers,89,86,38,43,2,0,0.3559
+SIM0270,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Paul,,2007-08 Denver Nuggets,2009-10 Portland Trail Blazers,85,82,42,39,1,1,0.624
+SIM0271,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,1993-94 Houston Rockets,2006-07 Cleveland Cavaliers,92,86,39,17,1,1,0.8515
+SIM0272,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ben,,1976-77 Philadelphia 76ers,2015-16 Cleveland Cavaliers,89,93,37,40,2,0,0.4992
+SIM0273,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Max,,2018-19 Toronto Raptors,2005-06 Memphis Grizzlies,93,77,38,14,1,1,0.6372
+SIM0274,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ryan,,1993-94 Houston Rockets,2012-13 Miami Heat,92,94,28,44,2,0,0.5679
+SIM0275,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ben,,1991-92 Chicago Bulls,2000-01 Los Angeles Lakers,95,96,44,38,1,1,0.4428
+SIM0276,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ryan,,1993-94 Houston Rockets,2016-17 Golden State Warriors,92,98,28,47,2,0,0.3437
+SIM0277,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,1986-87 Los Angeles Lakers,2003-04 Detroit Pistons,96,92,31,59,2,0,0.3252
+SIM0278,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ryan,,2011-12 New York Knicks,2003-04 Detroit Pistons,82,92,43,37,1,1,0.5663
+SIM0279,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Brian,,1970-71 Milwaukee Bucks,1985-86 Boston Celtics,94,96,50,36,1,1,0.6122
+SIM0280,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,2013-14 Indiana Pacers,2018-19 Toronto Raptors,88,93,39,36,1,1,0.5785
+SIM0281,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Max,,2010-11 Chicago Bulls,1991-92 Chicago Bulls,89,95,32,44,2,0,0.3036
+SIM0282,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,2006-07 Golden State Warriors,2010-11 Chicago Bulls,83,89,44,30,1,1,0.654
+SIM0283,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,2005-06 Miami Heat,1976-77 Philadelphia 76ers,90,89,25,45,2,0,0.225
+SIM0284,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,2000-01 Los Angeles Lakers,1991-92 Chicago Bulls,96,95,39,53,2,0,0.2953
+SIM0285,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Corwin,,2003-04 Detroit Pistons,1997-98 Chicago Bulls,92,94,41,34,1,1,0.7324
+SIM0286,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Max,,2005-06 Miami Heat,2013-14 San Antonio Spurs,90,94,32,47,2,0,0.3651
+SIM0287,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Sam,,2011-12 Oklahoma City Thunder,2005-06 Memphis Grizzlies,91,77,42,45,2,0,0.4345
+SIM0288,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Paul,,2012-13 Miami Heat,2015-16 Cleveland Cavaliers,94,93,46,40,1,1,0.5572
+SIM0289,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Corwin,,1991-92 Chicago Bulls,1985-86 Atlanta Hawks,95,85,42,24,1,1,0.6971
+SIM0290,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,1971-72 New York Knicks,2007-08 Denver Nuggets,88,85,49,51,2,0,0.315
+SIM0291,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,1993-94 Houston Rockets,2018-19 Toronto Raptors,92,93,43,44,2,0,0.4428
+SIM0292,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Dbart,,2013-14 Indiana Pacers,1970-71 Milwaukee Bucks,88,94,23,26,2,0,0.5217
+SIM0293,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Sam,,2000-01 Los Angeles Lakers,1991-92 Chicago Bulls,96,95,41,43,2,0,0.5572
+SIM0294,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,1985-86 Boston Celtics,2011-12 Oklahoma City Thunder,96,91,38,49,2,0,0.2959
+SIM0295,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,2005-06 Memphis Grizzlies,2006-07 Cleveland Cavaliers,77,86,30,43,2,0,0.6217
+SIM0296,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,2011-12 Oklahoma City Thunder,2010-11 Chicago Bulls,91,89,47,44,1,1,0.613
+SIM0297,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Sam,,2013-14 Indiana Pacers,2013-14 San Antonio Spurs,88,94,45,43,1,1,0.5671
+SIM0298,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Brian,,1976-77 Philadelphia 76ers,2010-11 Dallas Mavericks,89,91,40,31,1,1,0.5679
+SIM0299,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,2005-06 Miami Heat,1986-87 Los Angeles Lakers,90,96,50,46,1,1,0.3862
+SIM0300,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,2003-04 Detroit Pistons,2018-19 Toronto Raptors,92,93,25,35,2,0,0.3981
+SIM0301,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Sam,,2009-10 Portland Trail Blazers,2006-07 Golden State Warriors,82,83,34,28,1,1,0.5341
+SIM0302,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Brian,,2005-06 Miami Heat,2007-08 Denver Nuggets,90,85,44,17,1,1,0.7245
+SIM0303,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Corwin,,2007-08 Denver Nuggets,2010-11 Dallas Mavericks,85,91,40,39,1,1,0.5671
+SIM0304,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Corwin,,2013-14 Indiana Pacers,2009-10 Portland Trail Blazers,88,82,59,33,1,1,0.799
+SIM0305,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ryan,,2010-11 Chicago Bulls,2006-07 Golden State Warriors,89,83,37,28,1,1,0.6563
+SIM0306,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,2010-11 Dallas Mavericks,1997-98 Chicago Bulls,91,94,44,30,1,1,0.685
+SIM0307,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,1976-77 Philadelphia 76ers,2011-12 Oklahoma City Thunder,89,91,36,57,2,0,0.2015
+SIM0308,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Max,,1986-87 Los Angeles Lakers,2009-10 Portland Trail Blazers,96,82,41,54,2,0,0.5258
+SIM0309,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Sam,,2013-14 San Antonio Spurs,1985-86 Atlanta Hawks,94,85,38,39,2,0,0.4675
+SIM0310,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,2016-17 Golden State Warriors,2009-10 Portland Trail Blazers,98,82,38,28,1,1,0.9014
+SIM0311,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Jackson,,2005-06 Memphis Grizzlies,2015-16 Cleveland Cavaliers,77,93,15,39,2,0,0.0986
+SIM0312,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,2018-19 Toronto Raptors,2013-14 Indiana Pacers,93,88,57,37,1,1,0.7595
+SIM0313,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Max,,2012-13 Miami Heat,2000-01 Los Angeles Lakers,94,96,40,35,1,1,0.2327
+SIM0314,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ryan,,2007-08 Denver Nuggets,2011-12 New York Knicks,85,82,37,35,1,1,0.4892
+SIM0315,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Brian,,2011-12 Oklahoma City Thunder,1993-94 Houston Rockets,91,92,47,23,1,1,0.6232
+SIM0316,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Brian,,2005-06 Memphis Grizzlies,2013-14 Indiana Pacers,77,88,42,52,2,0,0.4182
+SIM0317,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,1997-98 Chicago Bulls,1985-86 Boston Celtics,94,96,29,25,1,1,0.2327
+SIM0318,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,1971-72 New York Knicks,1976-77 Philadelphia 76ers,88,89,37,41,2,0,0.3551
+SIM0319,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ben,,2015-16 Cleveland Cavaliers,2009-10 Portland Trail Blazers,93,82,38,43,2,0,0.3574
+SIM0320,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ben,,2010-11 Dallas Mavericks,2015-16 Golden State Warriors,91,95,42,26,1,1,0.5449
+SIM0321,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,2016-17 Golden State Warriors,2013-14 Indiana Pacers,98,88,44,35,1,1,0.5704
+SIM0322,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ryan,,1976-77 Philadelphia 76ers,1986-87 Los Angeles Lakers,89,96,26,32,2,0,0.4642
+SIM0323,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ryan,,2013-14 San Antonio Spurs,1997-98 Chicago Bulls,94,94,37,36,1,1,0.4093
+SIM0324,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ben,,2007-08 Denver Nuggets,2013-14 San Antonio Spurs,85,94,35,39,2,0,0.4867
+SIM0325,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Brian,,2006-07 Cleveland Cavaliers,2011-12 Oklahoma City Thunder,86,91,32,37,2,0,0.6225
+SIM0326,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,1993-94 Houston Rockets,1970-71 Milwaukee Bucks,92,94,46,36,1,1,0.5679
+SIM0327,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,2012-13 Miami Heat,2006-07 Golden State Warriors,94,83,37,29,1,1,0.5366
+SIM0328,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ben,,1985-86 Boston Celtics,1997-98 Chicago Bulls,96,94,40,49,2,0,0.3452
+SIM0329,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Corwin,,2011-12 Oklahoma City Thunder,2009-10 Portland Trail Blazers,91,82,58,28,1,1,0.7919
+SIM0330,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Dbart,,1995-96 Chicago Bulls,2009-10 Portland Trail Blazers,97,82,35,40,2,0,0.7075
+SIM0331,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Corwin,,2000-01 Los Angeles Lakers,1993-94 Houston Rockets,96,92,52,38,1,1,0.6763
+SIM0332,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Jackson,,2015-16 Golden State Warriors,2009-10 Portland Trail Blazers,95,82,27,47,2,0,0.4684
+SIM0333,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ben,,2013-14 San Antonio Spurs,2011-12 Oklahoma City Thunder,94,91,41,39,1,1,0.3559
+SIM0334,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,1985-86 Atlanta Hawks,1986-87 Los Angeles Lakers,85,96,36,44,2,0,0.2567
+SIM0335,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,2005-06 Memphis Grizzlies,1985-86 Atlanta Hawks,77,85,29,30,2,0,0.2485
+SIM0336,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,2009-10 Portland Trail Blazers,2012-13 Miami Heat,82,94,29,61,2,0,0.1598
+SIM0337,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ben,,1991-92 Chicago Bulls,1993-94 Houston Rockets,95,92,37,43,2,0,0.2769
+SIM0338,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,1971-72 New York Knicks,2015-16 Golden State Warriors,88,95,40,39,1,1,0.7577
+SIM0339,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Brian,,1976-77 Philadelphia 76ers,2012-13 Miami Heat,89,94,44,33,1,1,0.5333
+SIM0340,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,1970-71 Milwaukee Bucks,2015-16 Cleveland Cavaliers,94,93,37,33,1,1,0.8196
+SIM0341,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Brian,,2010-11 Chicago Bulls,2015-16 Cleveland Cavaliers,89,93,39,42,2,0,0.7137
+SIM0342,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ben,,2010-11 Chicago Bulls,2016-17 Golden State Warriors,89,98,27,36,2,0,0.3129
+SIM0343,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ben,,2010-11 Dallas Mavericks,2003-04 Detroit Pistons,91,92,42,28,1,1,0.5341
+SIM0344,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Max,,2007-08 Denver Nuggets,1997-98 Chicago Bulls,85,94,39,46,2,0,0.1795
+SIM0345,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,2000-01 Los Angeles Lakers,1970-71 Milwaukee Bucks,96,94,36,46,2,0,0.4775
+SIM0346,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Brian,,1991-92 Chicago Bulls,2015-16 Golden State Warriors,95,95,47,35,1,1,0.5457
+SIM0347,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,2005-06 Miami Heat,1971-72 New York Knicks,90,88,61,45,1,1,0.733
+SIM0348,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,2006-07 Cleveland Cavaliers,2007-08 Denver Nuggets,86,85,49,31,1,1,0.7238
+SIM0349,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ben,,2005-06 Miami Heat,2007-08 Denver Nuggets,90,85,42,22,1,1,0.6027
+SIM0350,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Sam,,2018-19 Toronto Raptors,2005-06 Memphis Grizzlies,93,77,41,49,2,0,0.4576
+SIM0351,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Jackson,,2010-11 Chicago Bulls,2018-19 Toronto Raptors,89,93,25,41,2,0,0.3237
+SIM0352,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Paul,,2012-13 Miami Heat,1991-92 Chicago Bulls,94,95,36,53,2,0,0.3551
+SIM0353,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,1995-96 Chicago Bulls,1986-87 Los Angeles Lakers,97,96,27,36,2,0,0.6449
+SIM0354,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Corwin,,2015-16 Cleveland Cavaliers,1985-86 Atlanta Hawks,93,85,37,40,2,0,0.5474
+SIM0355,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Dbart,,2018-19 Toronto Raptors,2013-14 San Antonio Spurs,93,94,25,30,2,0,0.5341
+SIM0356,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,2007-08 Denver Nuggets,1971-72 New York Knicks,85,88,38,49,2,0,0.6011
+SIM0357,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Paul,,1985-86 Boston Celtics,1985-86 Atlanta Hawks,96,85,45,41,1,1,0.4452
+SIM0358,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Dbart,,1986-87 Los Angeles Lakers,2000-01 Los Angeles Lakers,96,96,35,42,2,0,0.5907
+SIM0359,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Dbart,,2013-14 Indiana Pacers,2007-08 Boston Celtics,88,94,43,34,1,1,0.6942
+SIM0360,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Brian,,2006-07 Golden State Warriors,2013-14 Indiana Pacers,83,88,50,33,1,1,0.7408
+SIM0361,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,1971-72 New York Knicks,2006-07 Golden State Warriors,88,83,51,38,1,1,0.7595
+SIM0362,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ryan,,2013-14 Indiana Pacers,1997-98 Chicago Bulls,88,94,24,52,2,0,0.3862
+SIM0363,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,2015-16 Cleveland Cavaliers,1991-92 Chicago Bulls,93,95,37,35,1,1,0.6949
+SIM0364,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Paul,,1985-86 Atlanta Hawks,2003-04 Detroit Pistons,85,92,37,42,2,0,0.6003
+SIM0365,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Ryan,,2011-12 New York Knicks,1985-86 Atlanta Hawks,82,85,45,43,1,1,0.6011
+SIM0366,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Jackson,,1970-71 Milwaukee Bucks,2007-08 Denver Nuggets,94,85,55,39,1,1,0.5589
+SIM0367,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Max,,2013-14 Indiana Pacers,2007-08 Denver Nuggets,88,85,35,51,2,0,0.2417
+SIM0368,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,2005-06 Memphis Grizzlies,1985-86 Atlanta Hawks,77,85,52,38,1,1,0.5441
+SIM0369,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Dbart,,1991-92 Chicago Bulls,1970-71 Milwaukee Bucks,95,94,38,31,1,1,0.6857
+SIM0370,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ben,,1997-98 Chicago Bulls,2000-01 Los Angeles Lakers,94,96,31,45,2,0,0.2327
+SIM0371,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Paul,,2007-08 Boston Celtics,2011-12 Oklahoma City Thunder,94,91,37,34,1,1,0.4436
+SIM0372,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Corwin,,1997-98 Chicago Bulls,2011-12 New York Knicks,94,82,45,37,1,1,0.5931
+SIM0373,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Brian,,1993-94 Houston Rockets,1985-86 Atlanta Hawks,92,85,52,23,1,1,0.8334
+SIM0374,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,2003-04 Detroit Pistons,2005-06 Memphis Grizzlies,92,77,63,40,1,1,0.8343
+SIM0375,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Paul,,2006-07 Golden State Warriors,1985-86 Atlanta Hawks,83,85,28,43,2,0,0.387
+SIM0376,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Paul,,2010-11 Chicago Bulls,2005-06 Miami Heat,89,90,50,37,1,1,0.6232
+SIM0377,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,2006-07 Golden State Warriors,1976-77 Philadelphia 76ers,83,89,48,23,1,1,0.7661
+SIM0378,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,2018-19 Toronto Raptors,2006-07 Cleveland Cavaliers,93,86,43,31,1,1,0.3158
+SIM0379,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Sam,,2015-16 Golden State Warriors,1970-71 Milwaukee Bucks,95,94,33,53,2,0,0.3768
+SIM0380,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Dbart,,2007-08 Boston Celtics,2003-04 Detroit Pistons,94,92,33,34,2,0,0.613
+SIM0381,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Sam,,1991-92 Chicago Bulls,2009-10 Portland Trail Blazers,95,82,34,23,1,1,0.5142
+SIM0382,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Sam,,1970-71 Milwaukee Bucks,2010-11 Chicago Bulls,94,89,42,38,1,1,0.6027
+SIM0383,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Brian,,2005-06 Memphis Grizzlies,2009-10 Portland Trail Blazers,77,82,42,45,2,0,0.6225
+SIM0384,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Max,,1985-86 Boston Celtics,2012-13 Miami Heat,96,94,37,50,2,0,0.3051
+SIM0385,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,2007-08 Boston Celtics,2011-12 New York Knicks,94,82,39,47,2,0,0.4568
+SIM0386,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,1997-98 Chicago Bulls,2015-16 Cleveland Cavaliers,94,93,39,43,2,0,0.7238
+SIM0387,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,2009-10 Portland Trail Blazers,1976-77 Philadelphia 76ers,82,89,45,24,1,1,0.7577
+SIM0388,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,1995-96 Chicago Bulls,1993-94 Houston Rockets,97,92,44,32,1,1,0.7595
+SIM0389,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Jackson,,2005-06 Miami Heat,1991-92 Chicago Bulls,90,95,21,40,2,0,0.1545
+SIM0390,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,1997-98 Chicago Bulls,2011-12 Oklahoma City Thunder,94,91,44,31,1,1,0.8329
+SIM0391,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Corwin,,2010-11 Dallas Mavericks,2005-06 Memphis Grizzlies,91,77,46,29,1,1,0.8001
+SIM0392,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Corwin,,2013-14 San Antonio Spurs,2007-08 Denver Nuggets,94,85,46,40,1,1,0.6871
+SIM0393,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Sam,,2015-16 Cleveland Cavaliers,2010-11 Chicago Bulls,93,89,46,44,1,1,0.5008
+SIM0394,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Dbart,,2010-11 Dallas Mavericks,2000-01 Los Angeles Lakers,91,96,34,26,1,1,0.7041
+SIM0395,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,2015-16 Cleveland Cavaliers,2013-14 Indiana Pacers,93,88,39,43,2,0,0.6457
+SIM0396,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Corwin,,2007-08 Boston Celtics,1976-77 Philadelphia 76ers,94,89,59,42,1,1,0.82
+SIM0397,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ryan,,1985-86 Atlanta Hawks,1997-98 Chicago Bulls,85,94,25,35,2,0,0.2749
+SIM0398,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Paul,,2012-13 Miami Heat,2006-07 Cleveland Cavaliers,94,86,37,20,1,1,0.411
+SIM0399,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Sam,,1971-72 New York Knicks,1976-77 Philadelphia 76ers,88,89,42,41,1,1,0.4428
+SIM0400,synthetic,1v1,classic,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Dbart,,1986-87 Los Angeles Lakers,2015-16 Golden State Warriors,96,95,51,41,1,1,0.6857
+SIM0401,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Ryan,Sam,Denver Nuggets,Orlando Magic,83,81,48,34,1,1,0.6956
+SIM0402,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Corwin,Jackson,Brooklyn Nets,Toronto Raptors,75,79,58,35,1,1,0.3651
+SIM0403,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Max,Jackson,New York Knicks,Utah Jazz,84,76,40,31,1,1,0.3259
+SIM0404,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ben,Sam,Jackson,Utah Jazz,Detroit Pistons,76,82,40,48,2,0,0.3437
+SIM0405,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Ryan,Max,Milwaukee Bucks,Denver Nuggets,81,83,48,36,1,1,0.5679
+SIM0406,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Max,Ben,Portland Trail Blazers,Detroit Pistons,78,82,36,32,1,1,0.304
+SIM0407,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Corwin,Max,Ryan,Dallas Mavericks,Philadelphia 76ers,83,81,36,32,1,1,0.3452
+SIM0408,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Paul,Sam,Dbart,Dallas Mavericks,Philadelphia 76ers,83,81,46,32,1,1,0.5687
+SIM0409,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Jackson,Ben,Minnesota Timberwolves,Dallas Mavericks,82,83,35,29,1,1,0.3143
+SIM0410,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Max,Ryan,Washington Wizards,Los Angeles Lakers,75,83,45,35,1,1,0.3434
+SIM0411,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Paul,Max,Dbart,Golden State Warriors,Toronto Raptors,82,79,29,40,2,0,0.6453
+SIM0412,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Max,Dbart,Jackson,Brooklyn Nets,Atlanta Hawks,75,80,45,27,1,1,0.3543
+SIM0413,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Max,Dbart,Chicago Bulls,Los Angeles Lakers,78,83,41,26,1,1,0.4875
+SIM0414,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Corwin,Sam,New Orleans Pelicans,Dallas Mavericks,78,83,35,50,2,0,0.4419
+SIM0415,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Sam,Brian,Ryan,Boston Celtics,Milwaukee Bucks,82,81,44,38,1,1,0.5572
+SIM0416,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Max,Sam,San Antonio Spurs,Houston Rockets,82,83,32,39,2,0,0.5568
+SIM0417,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ben,Corwin,Jackson,Sacramento Kings,Boston Celtics,79,82,33,32,1,1,0.5564
+SIM0418,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Sam,Max,Brian,Boston Celtics,Houston Rockets,82,83,45,38,1,1,0.4655
+SIM0419,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Jackson,Ben,Minnesota Timberwolves,Oklahoma City Thunder,82,85,45,30,1,1,0.2946
+SIM0420,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ryan,Jackson,Ben,Dallas Mavericks,Washington Wizards,83,75,34,45,2,0,0.3259
+SIM0421,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Sam,Jackson,Washington Wizards,Memphis Grizzlies,75,80,23,31,2,0,0.2405
+SIM0422,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Paul,Ben,Ryan,Atlanta Hawks,Golden State Warriors,80,82,40,29,1,1,0.4089
+SIM0423,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Paul,Ryan,Golden State Warriors,Philadelphia 76ers,82,81,52,27,1,1,0.6656
+SIM0424,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Ben,Ryan,Sacramento Kings,Minnesota Timberwolves,79,82,38,34,1,1,0.4651
+SIM0425,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Ryan,Brian,Dallas Mavericks,Oklahoma City Thunder,83,85,37,16,1,1,0.6752
+SIM0426,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Corwin,Max,Cleveland Cavaliers,Miami Heat,83,80,41,35,1,1,0.4892
+SIM0427,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Paul,Ben,New York Knicks,Boston Celtics,84,82,28,35,2,0,0.4097
+SIM0428,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Dbart,Ryan,Sam,Sacramento Kings,Detroit Pistons,79,82,51,50,1,1,0.5108
+SIM0429,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ryan,Paul,Brian,Chicago Bulls,Memphis Grizzlies,78,80,43,32,1,1,0.5679
+SIM0430,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ryan,Ben,Dbart,Cleveland Cavaliers,San Antonio Spurs,83,82,36,40,2,0,0.5117
+SIM0431,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Ryan,Sam,Denver Nuggets,Los Angeles Clippers,83,83,37,27,1,1,0.5
+SIM0432,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Jackson,Max,Ryan,Portland Trail Blazers,Golden State Warriors,78,82,36,46,2,0,0.5221
+SIM0433,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Ryan,Dbart,San Antonio Spurs,Charlotte Hornets,82,78,32,48,2,0,0.5465
+SIM0434,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ryan,Sam,Dbart,New Orleans Pelicans,Atlanta Hawks,78,80,49,50,2,0,0.5453
+SIM0435,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Ryan,Max,Brooklyn Nets,Utah Jazz,75,76,37,45,2,0,0.4655
+SIM0436,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Sam,Corwin,Los Angeles Lakers,Dallas Mavericks,83,83,39,36,1,1,0.5
+SIM0437,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ryan,Jackson,Max,Orlando Magic,Brooklyn Nets,81,75,48,49,2,0,0.4106
+SIM0438,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Paul,Sam,Ryan,Utah Jazz,Cleveland Cavaliers,76,83,47,46,1,1,0.51
+SIM0439,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Brian,Ben,Miami Heat,Memphis Grizzlies,80,80,40,33,1,1,0.5457
+SIM0440,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Dbart,Corwin,Los Angeles Lakers,Toronto Raptors,83,79,31,17,1,1,0.7333
+SIM0441,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Sam,Paul,Portland Trail Blazers,Detroit Pistons,78,82,49,47,1,1,0.4535
+SIM0442,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Sam,Corwin,New York Knicks,Charlotte Hornets,84,78,41,43,2,0,0.5012
+SIM0443,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Jackson,Sam,Paul,San Antonio Spurs,Utah Jazz,82,76,34,36,2,0,0.5469
+SIM0444,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Max,Brian,Cleveland Cavaliers,Brooklyn Nets,83,75,38,48,2,0,0.6142
+SIM0445,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Max,Sam,Jackson,Los Angeles Lakers,Toronto Raptors,83,79,35,39,2,0,0.5691
+SIM0446,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Brian,Jackson,Denver Nuggets,Philadelphia 76ers,83,81,38,39,2,0,0.4547
+SIM0447,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Max,Jackson,Toronto Raptors,New York Knicks,79,84,39,45,2,0,0.3756
+SIM0448,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Sam,Dbart,Ben,Cleveland Cavaliers,San Antonio Spurs,83,82,38,45,2,0,0.5345
+SIM0449,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Corwin,Ben,Max,Miami Heat,Dallas Mavericks,80,83,50,43,1,1,0.2579
+SIM0450,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Brian,Dbart,Washington Wizards,Detroit Pistons,75,82,35,32,1,1,0.5329
+SIM0451,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Corwin,Dbart,Ben,Dallas Mavericks,New York Knicks,83,84,35,44,2,0,0.3764
+SIM0452,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Dbart,Jackson,Miami Heat,New York Knicks,80,84,57,33,1,1,0.3651
+SIM0453,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Brian,Sam,Corwin,Utah Jazz,Oklahoma City Thunder,76,85,31,34,2,0,0.3329
+SIM0454,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Max,Ben,Corwin,Brooklyn Nets,New Orleans Pelicans,75,78,48,35,1,1,0.5337
+SIM0455,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ryan,Jackson,Ben,New York Knicks,Houston Rockets,84,83,29,34,2,0,0.3348
+SIM0456,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Ben,Paul,Philadelphia 76ers,Los Angeles Clippers,81,83,39,42,2,0,0.3655
+SIM0457,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Max,Sam,Minnesota Timberwolves,Golden State Warriors,82,82,49,44,1,1,0.4543
+SIM0458,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ben,Sam,Max,Detroit Pistons,Brooklyn Nets,82,75,45,44,1,1,0.5129
+SIM0459,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Max,Corwin,Sacramento Kings,Philadelphia 76ers,79,81,40,35,1,1,0.6548
+SIM0460,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Ryan,Corwin,Memphis Grizzlies,Oklahoma City Thunder,80,85,43,41,1,1,0.6225
+SIM0461,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Max,Ben,Paul,Cleveland Cavaliers,Charlotte Hornets,83,78,30,23,1,1,0.6027
+SIM0462,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Brian,Paul,Los Angeles Lakers,Brooklyn Nets,83,75,60,39,1,1,0.6357
+SIM0463,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Max,Ben,Brian,Charlotte Hornets,New York Knicks,78,84,50,44,1,1,0.4759
+SIM0464,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Jackson,Ryan,Sam,Orlando Magic,San Antonio Spurs,81,82,46,28,1,1,0.6445
+SIM0465,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Corwin,Ryan,Dbart,Brooklyn Nets,Detroit Pistons,75,82,39,53,2,0,0.3333
+SIM0466,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Brian,Paul,Jackson,Charlotte Hornets,Houston Rockets,78,83,48,47,1,1,0.3136
+SIM0467,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Corwin,Sam,Paul,Utah Jazz,Dallas Mavericks,76,83,38,54,2,0,0.3132
+SIM0468,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Sam,Paul,Max,Houston Rockets,Atlanta Hawks,83,80,47,42,1,1,0.4211
+SIM0469,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Sam,Ben,Paul,Utah Jazz,Milwaukee Bucks,76,81,40,64,2,0,0.3136
+SIM0470,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Ben,Sam,Miami Heat,Denver Nuggets,80,83,42,49,2,0,0.3977
+SIM0471,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Max,Ben,Indiana Pacers,Denver Nuggets,82,83,37,44,2,0,0.3344
+SIM0472,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Sam,Ben,Portland Trail Blazers,Washington Wizards,78,75,35,41,2,0,0.3989
+SIM0473,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Jackson,Max,Detroit Pistons,Indiana Pacers,82,82,36,29,1,1,0.3245
+SIM0474,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Jackson,Brian,Paul,New York Knicks,Los Angeles Lakers,84,83,39,43,2,0,0.6656
+SIM0475,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Sam,Brian,Max,Dallas Mavericks,Oklahoma City Thunder,83,85,37,49,2,0,0.5903
+SIM0476,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Max,Dbart,Sam,Los Angeles Lakers,Orlando Magic,83,81,21,43,2,0,0.5911
+SIM0477,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Corwin,Paul,Chicago Bulls,Houston Rockets,78,83,22,49,2,0,0.5333
+SIM0478,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ryan,Jackson,Dbart,Charlotte Hornets,Dallas Mavericks,78,83,35,45,2,0,0.2942
+SIM0479,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Paul,Ryan,Ben,Indiana Pacers,Orlando Magic,82,81,31,50,2,0,0.4207
+SIM0480,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Max,Ryan,Sam,Minnesota Timberwolves,Washington Wizards,82,75,49,37,1,1,0.7061
+SIM0481,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Max,Jackson,Dbart,Utah Jazz,Boston Celtics,76,82,35,34,1,1,0.3437
+SIM0482,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Sam,Jackson,Ben,Portland Trail Blazers,New Orleans Pelicans,78,78,37,32,1,1,0.2673
+SIM0483,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Brian,Dbart,Los Angeles Lakers,Houston Rockets,83,83,33,21,1,1,0.6551
+SIM0484,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Dbart,Brian,Ben,New Orleans Pelicans,San Antonio Spurs,78,82,40,37,1,1,0.4763
+SIM0485,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Paul,Max,Minnesota Timberwolves,Philadelphia 76ers,82,81,49,34,1,1,0.5117
+SIM0486,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Brian,Max,Corwin,Milwaukee Bucks,Toronto Raptors,81,79,28,45,2,0,0.4547
+SIM0487,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Ryan,Sam,New York Knicks,Minnesota Timberwolves,84,82,49,40,1,1,0.6345
+SIM0488,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Jackson,Ben,Washington Wizards,Milwaukee Bucks,75,81,13,25,2,0,0.2321
+SIM0489,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Corwin,Ben,Max,Chicago Bulls,Los Angeles Clippers,78,83,33,36,2,0,0.2405
+SIM0490,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Jackson,Dbart,Boston Celtics,San Antonio Spurs,82,82,40,20,1,1,0.3659
+SIM0491,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Dbart,Ryan,Paul,Utah Jazz,New York Knicks,76,84,36,32,1,1,0.3033
+SIM0492,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Jackson,Brian,Houston Rockets,Minnesota Timberwolves,83,82,39,38,1,1,0.4888
+SIM0493,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Sam,Max,Jackson,Los Angeles Clippers,Golden State Warriors,83,82,38,40,2,0,0.3985
+SIM0494,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Corwin,Dbart,Atlanta Hawks,Golden State Warriors,80,82,36,41,2,0,0.6949
+SIM0495,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Corwin,Ben,Los Angeles Lakers,Denver Nuggets,83,83,54,42,1,1,0.4317
+SIM0496,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Sam,Brian,Denver Nuggets,Chicago Bulls,83,78,37,56,2,0,0.6663
+SIM0497,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Brian,Corwin,Phoenix Suns,Indiana Pacers,81,82,43,33,1,1,0.7047
+SIM0498,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Jackson,Paul,Max,Los Angeles Clippers,Los Angeles Lakers,83,83,41,40,1,1,0.5229
+SIM0499,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Ben,Sam,San Antonio Spurs,Miami Heat,82,80,51,43,1,1,0.4775
+SIM0500,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Paul,Ryan,Max,Indiana Pacers,Brooklyn Nets,82,75,37,40,2,0,0.49
+SIM0501,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Brian,Ryan,Toronto Raptors,Orlando Magic,79,81,41,28,1,1,0.6548
+SIM0502,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Max,Brian,Houston Rockets,Utah Jazz,83,76,50,40,1,1,0.646
+SIM0503,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Sam,Jackson,Corwin,Atlanta Hawks,Orlando Magic,80,81,28,36,2,0,0.4883
+SIM0504,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ben,Brian,Corwin,Phoenix Suns,Boston Celtics,81,82,46,53,2,0,0.7235
+SIM0505,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Jackson,Ben,Los Angeles Clippers,Dallas Mavericks,83,83,38,60,2,0,0.3047
+SIM0506,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Max,Paul,Brian,Los Angeles Clippers,Los Angeles Lakers,83,83,28,42,2,0,0.6755
+SIM0507,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Corwin,Dbart,Ryan,Chicago Bulls,Denver Nuggets,78,83,28,25,1,1,0.5104
+SIM0508,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Brian,Max,Ben,Minnesota Timberwolves,Cleveland Cavaliers,82,83,51,45,1,1,0.2949
+SIM0509,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Brian,Ryan,Ben,New Orleans Pelicans,Golden State Warriors,78,82,29,38,2,0,0.285
+SIM0510,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Sam,Jackson,Max,Los Angeles Clippers,Toronto Raptors,83,79,37,33,1,1,0.4779
+SIM0511,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Brian,Paul,Cleveland Cavaliers,Milwaukee Bucks,83,81,47,26,1,1,0.6345
+SIM0512,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Dbart,Corwin,Brian,Milwaukee Bucks,San Antonio Spurs,81,82,43,33,1,1,0.6853
+SIM0513,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Jackson,Dbart,Ben,Washington Wizards,Dallas Mavericks,75,83,31,32,2,0,0.3858
+SIM0514,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Ryan,Brian,Orlando Magic,Chicago Bulls,81,78,50,42,1,1,0.666
+SIM0515,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ryan,Jackson,Corwin,Golden State Warriors,Brooklyn Nets,82,75,33,38,2,0,0.4444
+SIM0516,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Jackson,Sam,Memphis Grizzlies,Brooklyn Nets,80,75,23,30,2,0,0.4896
+SIM0517,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Ben,Paul,Sam,New Orleans Pelicans,New York Knicks,78,84,40,39,1,1,0.5671
+SIM0518,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Jackson,Ben,Max,Brooklyn Nets,Los Angeles Clippers,75,83,39,46,2,0,0.323
+SIM0519,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Ben,Corwin,Brian,Houston Rockets,Los Angeles Lakers,83,83,47,32,1,1,0.7144
+SIM0520,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ben,Ryan,Jackson,Charlotte Hornets,Milwaukee Bucks,78,81,39,47,2,0,0.376
+SIM0521,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Ben,Paul,Corwin,San Antonio Spurs,Portland Trail Blazers,82,78,55,44,1,1,0.6349
+SIM0522,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Ryan,Corwin,Cleveland Cavaliers,Milwaukee Bucks,83,81,54,30,1,1,0.6956
+SIM0523,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Max,Sam,Oklahoma City Thunder,San Antonio Spurs,85,82,46,47,2,0,0.3559
+SIM0524,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Ben,Dbart,Miami Heat,Denver Nuggets,80,83,34,42,2,0,0.4423
+SIM0525,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Brian,Paul,Ryan,Miami Heat,Chicago Bulls,80,78,35,55,2,0,0.3663
+SIM0526,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Ben,Sam,Max,Golden State Warriors,Philadelphia 76ers,82,81,39,41,2,0,0.6236
+SIM0527,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Paul,Brian,New Orleans Pelicans,Toronto Raptors,78,79,42,48,2,0,0.5341
+SIM0528,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Paul,Brian,Ben,Portland Trail Blazers,Orlando Magic,78,81,32,41,2,0,0.4423
+SIM0529,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Dbart,Jackson,Milwaukee Bucks,Los Angeles Lakers,81,83,51,38,1,1,0.387
+SIM0530,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Corwin,Brian,Paul,Milwaukee Bucks,Philadelphia 76ers,81,81,50,36,1,1,0.5
+SIM0531,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Jackson,Paul,Brian,Los Angeles Clippers,Milwaukee Bucks,83,81,34,41,2,0,0.733
+SIM0532,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Brian,Sam,San Antonio Spurs,Sacramento Kings,82,79,34,32,1,1,0.624
+SIM0533,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Paul,Jackson,Dbart,Orlando Magic,Portland Trail Blazers,81,78,41,42,2,0,0.4436
+SIM0534,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ben,Sam,Corwin,Cleveland Cavaliers,Dallas Mavericks,83,83,52,41,1,1,0.5907
+SIM0535,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ben,Jackson,Brian,Houston Rockets,Cleveland Cavaliers,83,83,31,28,1,1,0.5
+SIM0536,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ben,Ryan,Max,Indiana Pacers,Dallas Mavericks,82,83,41,29,1,1,0.4428
+SIM0537,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Brian,Max,Corwin,Miami Heat,Philadelphia 76ers,80,81,43,42,1,1,0.4203
+SIM0538,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Corwin,Jackson,Washington Wizards,Houston Rockets,75,83,31,33,2,0,0.323
+SIM0539,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Max,Ben,Brian,Dallas Mavericks,Denver Nuggets,83,83,41,36,1,1,0.6551
+SIM0540,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Jackson,Sam,Dbart,Phoenix Suns,Denver Nuggets,81,83,45,34,1,1,0.5225
+SIM0541,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Max,Ryan,Brian,Boston Celtics,Portland Trail Blazers,82,78,53,31,1,1,0.696
+SIM0542,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Max,Ben,Denver Nuggets,Charlotte Hornets,83,78,36,25,1,1,0.5354
+SIM0543,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Ben,Ryan,Max,San Antonio Spurs,Charlotte Hornets,82,78,51,42,1,1,0.5008
+SIM0544,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Brian,Ben,Denver Nuggets,Sacramento Kings,83,79,56,16,1,1,0.5915
+SIM0545,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Max,Jackson,Brian,Chicago Bulls,Utah Jazz,78,76,35,41,2,0,0.5461
+SIM0546,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Sam,Max,Brooklyn Nets,Los Angeles Clippers,75,83,49,46,1,1,0.4077
+SIM0547,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Max,Corwin,Portland Trail Blazers,Memphis Grizzlies,78,80,46,38,1,1,0.5453
+SIM0548,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Brian,Paul,Jackson,Portland Trail Blazers,Golden State Warriors,78,82,40,41,2,0,0.304
+SIM0549,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Brian,Sam,Corwin,Orlando Magic,Houston Rockets,81,83,41,42,2,0,0.4089
+SIM0550,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Ben,Corwin,New Orleans Pelicans,Los Angeles Clippers,78,83,25,62,2,0,0.3136
+SIM0551,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Max,Brian,Paul,Memphis Grizzlies,Houston Rockets,80,83,36,51,2,0,0.5108
+SIM0552,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Max,Ryan,Sam,Orlando Magic,Houston Rockets,81,83,37,47,2,0,0.6337
+SIM0553,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Paul,Corwin,Max,Chicago Bulls,Los Angeles Lakers,78,83,39,47,2,0,0.4646
+SIM0554,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Brian,Ben,Paul,Chicago Bulls,Golden State Warriors,78,82,31,38,2,0,0.2667
+SIM0555,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Jackson,Paul,Sam,Memphis Grizzlies,Phoenix Suns,80,81,28,29,2,0,0.5112
+SIM0556,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Corwin,Ben,Brian,Boston Celtics,Dallas Mavericks,82,83,46,34,1,1,0.5341
+SIM0557,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Dbart,Corwin,Ben,New York Knicks,Washington Wizards,84,75,42,25,1,1,0.6464
+SIM0558,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Dbart,Paul,Washington Wizards,Orlando Magic,75,81,44,32,1,1,0.4305
+SIM0559,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Max,Corwin,Dbart,Indiana Pacers,Oklahoma City Thunder,82,85,47,27,1,1,0.6229
+SIM0560,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Jackson,Corwin,Orlando Magic,Detroit Pistons,81,82,41,31,1,1,0.3981
+SIM0561,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Brian,Jackson,Corwin,Chicago Bulls,Washington Wizards,78,75,38,40,2,0,0.4892
+SIM0562,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Jackson,Ben,Max,Phoenix Suns,New Orleans Pelicans,81,78,48,43,1,1,0.4892
+SIM0563,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Max,Corwin,Ben,Philadelphia 76ers,Memphis Grizzlies,81,80,43,41,1,1,0.5572
+SIM0564,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Ryan,Jackson,Max,Boston Celtics,Milwaukee Bucks,82,81,31,49,2,0,0.2953
+SIM0565,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Ben,Dbart,Max,Oklahoma City Thunder,Milwaukee Bucks,85,81,45,38,1,1,0.696
+SIM0566,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Dbart,Max,Corwin,Portland Trail Blazers,Detroit Pistons,78,82,24,27,2,0,0.4535
+SIM0567,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Corwin,Max,Ben,Denver Nuggets,New York Knicks,83,84,37,43,2,0,0.3344
+SIM0568,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Dbart,Ben,Ryan,Orlando Magic,Milwaukee Bucks,81,81,39,57,2,0,0.3449
+SIM0569,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Corwin,Sam,Ryan,Golden State Warriors,Dallas Mavericks,82,83,34,45,2,0,0.4883
+SIM0570,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Dbart,Ryan,Brian,Denver Nuggets,Cleveland Cavaliers,83,83,42,37,1,1,0.5907
+SIM0571,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Sam,Ryan,Jackson,Phoenix Suns,Cleveland Cavaliers,81,83,31,46,2,0,0.4539
+SIM0572,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Max,Dbart,Ryan,Toronto Raptors,Phoenix Suns,79,81,55,43,1,1,0.6548
+SIM0573,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Brian,Dbart,Ben,Oklahoma City Thunder,Dallas Mavericks,85,83,21,40,2,0,0.4321
+SIM0574,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Ryan,Paul,Dbart,Sacramento Kings,New York Knicks,79,84,54,42,1,1,0.5104
+SIM0575,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Brian,Sam,Jackson,New Orleans Pelicans,Detroit Pistons,78,82,33,27,1,1,0.2667
+SIM0576,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Jackson,Ryan,Ben,Orlando Magic,Miami Heat,81,80,46,38,1,1,0.5797
+SIM0577,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Sam,Corwin,Dbart,Chicago Bulls,Golden State Warriors,78,82,45,38,1,1,0.6334
+SIM0578,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Paul,Corwin,Max,Dallas Mavericks,Cleveland Cavaliers,83,83,50,35,1,1,0.6126
+SIM0579,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Ryan,Corwin,Sam,Indiana Pacers,Brooklyn Nets,82,75,47,42,1,1,0.646
+SIM0580,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Sam,Ryan,Orlando Magic,Cleveland Cavaliers,81,83,28,37,2,0,0.4996
+SIM0581,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Sam,Ryan,Jackson,Dallas Mavericks,Houston Rockets,83,83,43,37,1,1,0.5
+SIM0582,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Corwin,Max,Brian,Memphis Grizzlies,Washington Wizards,80,75,41,29,1,1,0.5354
+SIM0583,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Ben,Paul,Corwin,Atlanta Hawks,Indiana Pacers,80,82,35,43,2,0,0.6337
+SIM0584,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Sam,Ben,Brian,Chicago Bulls,Cleveland Cavaliers,78,83,42,48,2,0,0.556
+SIM0585,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Sam,Max,Paul,New Orleans Pelicans,Oklahoma City Thunder,78,85,42,41,1,1,0.3333
+SIM0586,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Brian,Paul,Corwin,Chicago Bulls,Milwaukee Bucks,78,81,35,34,1,1,0.5108
+SIM0587,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,Max,Paul,Sam,Denver Nuggets,Memphis Grizzlies,83,80,29,46,2,0,0.6453
+SIM0588,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,Dbart,Brian,Sam,Memphis Grizzlies,Los Angeles Lakers,80,83,36,42,2,0,0.5337
+SIM0589,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Jackson,Ryan,Sam,Phoenix Suns,Detroit Pistons,81,82,37,35,1,1,0.6445
+SIM0590,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Max,Ben,Brian,Dallas Mavericks,Los Angeles Clippers,83,83,43,41,1,1,0.5457
+SIM0591,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,Dbart,Paul,Jackson,Memphis Grizzlies,Detroit Pistons,80,82,38,54,2,0,0.2494
+SIM0592,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Corwin,Jackson,Dbart,Denver Nuggets,Los Angeles Clippers,83,83,42,62,2,0,0.3874
+SIM0593,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Paul,Brian,Dbart,Toronto Raptors,Golden State Warriors,79,82,27,38,2,0,0.5564
+SIM0594,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,Sam,Ryan,Jackson,Los Angeles Lakers,Phoenix Suns,83,81,38,31,1,1,0.3878
+SIM0595,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Dbart,Sam,Jackson,Boston Celtics,Chicago Bulls,82,78,44,37,1,1,0.4779
+SIM0596,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,Dbart,Jackson,Paul,Philadelphia 76ers,Atlanta Hawks,81,80,42,53,2,0,0.3348
+SIM0597,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,Ryan,Corwin,Paul,Los Angeles Lakers,Los Angeles Clippers,83,83,43,35,1,1,0.4771
+SIM0598,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,Sam,Brian,Ryan,New York Knicks,Orlando Magic,84,81,48,29,1,1,0.7054
+SIM0599,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,Paul,Corwin,Ben,Oklahoma City Thunder,San Antonio Spurs,85,82,49,35,1,1,0.5577
+SIM0600,synthetic,2v2,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,Dbart,Ben,Corwin,New Orleans Pelicans,San Antonio Spurs,78,82,36,35,1,1,0.4535
+SIM0601,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Dbart,,New York Knicks,Orlando Magic,84,81,46,25,1,1,0.5801
+SIM0602,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,Memphis Grizzlies,Cleveland Cavaliers,80,83,21,42,2,0,0.2244
+SIM0603,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ben,,Sacramento Kings,Oklahoma City Thunder,79,85,43,42,1,1,0.3862
+SIM0604,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Sam,,Memphis Grizzlies,Boston Celtics,80,82,47,35,1,1,0.267
+SIM0605,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ryan,,Miami Heat,Minnesota Timberwolves,80,82,33,44,2,0,0.3445
+SIM0606,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,Oklahoma City Thunder,Houston Rockets,85,83,35,36,2,0,0.3878
+SIM0607,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Paul,,Chicago Bulls,Boston Celtics,78,82,34,45,2,0,0.5449
+SIM0608,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,Cleveland Cavaliers,Portland Trail Blazers,83,78,27,37,2,0,0.2959
+SIM0609,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,Charlotte Hornets,Los Angeles Lakers,78,83,20,49,2,0,0.2086
+SIM0610,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Max,,Atlanta Hawks,San Antonio Spurs,80,82,35,39,2,0,0.3445
+SIM0611,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Ryan,,Chicago Bulls,Sacramento Kings,78,79,41,43,2,0,0.6232
+SIM0612,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Sam,,Detroit Pistons,Miami Heat,82,80,47,36,1,1,0.5687
+SIM0613,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ryan,,Houston Rockets,Brooklyn Nets,83,75,54,36,1,1,0.6357
+SIM0614,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,Indiana Pacers,Minnesota Timberwolves,82,82,43,27,1,1,0.7144
+SIM0615,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,Washington Wizards,Philadelphia 76ers,75,81,22,50,2,0,0.1732
+SIM0616,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Jackson,,Oklahoma City Thunder,Golden State Warriors,85,82,37,39,2,0,0.4892
+SIM0617,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ben,,Denver Nuggets,Chicago Bulls,83,78,35,41,2,0,0.4667
+SIM0618,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Jackson,,Indiana Pacers,Golden State Warriors,82,82,37,49,2,0,0.4543
+SIM0619,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,Houston Rockets,Sacramento Kings,83,79,44,38,1,1,0.7509
+SIM0620,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ben,,Houston Rockets,Indiana Pacers,83,82,34,39,2,0,0.5572
+SIM0621,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Paul,,Indiana Pacers,Memphis Grizzlies,82,80,22,43,2,0,0.3878
+SIM0622,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Max,,Houston Rockets,Los Angeles Lakers,83,83,33,46,2,0,0.2497
+SIM0623,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,Chicago Bulls,Philadelphia 76ers,78,81,39,48,2,0,0.334
+SIM0624,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Brian,,San Antonio Spurs,Philadelphia 76ers,82,81,45,49,2,0,0.6449
+SIM0625,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ryan,,Atlanta Hawks,Oklahoma City Thunder,80,85,35,45,2,0,0.3136
+SIM0626,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Paul,,Milwaukee Bucks,Dallas Mavericks,81,83,37,56,2,0,0.3445
+SIM0627,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Brian,,Portland Trail Blazers,Denver Nuggets,78,83,45,50,2,0,0.5333
+SIM0628,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Paul,,Philadelphia 76ers,Dallas Mavericks,81,83,34,18,1,1,0.5225
+SIM0629,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Max,,Boston Celtics,Atlanta Hawks,82,80,38,37,1,1,0.2333
+SIM0630,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Corwin,,Denver Nuggets,Los Angeles Clippers,83,83,31,32,2,0,0.7144
+SIM0631,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Sam,,Miami Heat,Denver Nuggets,80,83,35,42,2,0,0.376
+SIM0632,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Brian,,Sacramento Kings,Utah Jazz,79,76,51,29,1,1,0.7054
+SIM0633,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Jackson,,Boston Celtics,Atlanta Hawks,82,80,44,48,2,0,0.3452
+SIM0634,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ben,,Portland Trail Blazers,Toronto Raptors,78,79,39,29,1,1,0.4428
+SIM0635,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Paul,,Milwaukee Bucks,Sacramento Kings,81,79,48,44,1,1,0.5687
+SIM0636,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Sam,,Brooklyn Nets,Toronto Raptors,75,79,36,29,1,1,0.5898
+SIM0637,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,Portland Trail Blazers,New York Knicks,78,84,56,46,1,1,0.2663
+SIM0638,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Max,,Detroit Pistons,New Orleans Pelicans,82,78,39,41,2,0,0.5915
+SIM0639,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,Dallas Mavericks,Washington Wizards,83,75,27,49,2,0,0.287
+SIM0640,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Corwin,,Utah Jazz,Brooklyn Nets,76,75,41,31,1,1,0.6857
+SIM0641,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Brian,,New Orleans Pelicans,Washington Wizards,78,75,36,33,1,1,0.5801
+SIM0642,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Max,,Philadelphia 76ers,Portland Trail Blazers,81,78,33,36,2,0,0.3989
+SIM0643,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Brian,,Sacramento Kings,Atlanta Hawks,79,80,43,36,1,1,0.6232
+SIM0644,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Sam,,Miami Heat,Houston Rockets,80,83,52,47,1,1,0.6011
+SIM0645,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Jackson,,New Orleans Pelicans,Atlanta Hawks,78,80,36,45,2,0,0.267
+SIM0646,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Max,,Los Angeles Lakers,Utah Jazz,83,76,49,37,1,1,0.49
+SIM0647,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,Utah Jazz,Minnesota Timberwolves,76,82,42,41,1,1,0.2321
+SIM0648,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Paul,,Denver Nuggets,Golden State Warriors,83,82,36,32,1,1,0.6449
+SIM0649,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Jackson,,Washington Wizards,Minnesota Timberwolves,75,82,44,40,1,1,0.3752
+SIM0650,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,Denver Nuggets,Utah Jazz,83,76,53,45,1,1,0.5358
+SIM0651,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Dbart,,Minnesota Timberwolves,Chicago Bulls,82,78,34,27,1,1,0.6349
+SIM0652,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,Utah Jazz,Dallas Mavericks,76,83,38,29,1,1,0.51
+SIM0653,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Paul,,Charlotte Hornets,Memphis Grizzlies,78,80,37,38,2,0,0.5679
+SIM0654,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Corwin,,Houston Rockets,Memphis Grizzlies,83,80,41,45,2,0,0.5801
+SIM0655,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Corwin,,Brooklyn Nets,Los Angeles Lakers,75,83,37,38,2,0,0.713
+SIM0656,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,Orlando Magic,New York Knicks,81,84,25,21,1,1,0.685
+SIM0657,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Max,,New Orleans Pelicans,Golden State Warriors,78,82,31,54,2,0,0.3651
+SIM0658,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Brian,,Boston Celtics,Utah Jazz,82,76,50,43,1,1,0.8268
+SIM0659,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ryan,,Utah Jazz,Chicago Bulls,76,78,34,29,1,1,0.387
+SIM0660,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Jackson,,Charlotte Hornets,Washington Wizards,78,75,37,44,2,0,0.315
+SIM0661,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ryan,,Dallas Mavericks,Sacramento Kings,83,79,36,51,2,0,0.5008
+SIM0662,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Sam,,Orlando Magic,Portland Trail Blazers,81,78,44,45,2,0,0.3989
+SIM0663,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Max,,Indiana Pacers,Oklahoma City Thunder,82,85,27,40,2,0,0.2579
+SIM0664,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Corwin,,Atlanta Hawks,Oklahoma City Thunder,80,85,37,36,1,1,0.7041
+SIM0665,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Corwin,,Philadelphia 76ers,Golden State Warriors,81,82,40,33,1,1,0.4428
+SIM0666,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Max,,Chicago Bulls,Memphis Grizzlies,78,80,40,34,1,1,0.5225
+SIM0667,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Paul,,Cleveland Cavaliers,Detroit Pistons,83,82,40,58,2,0,0.4207
+SIM0668,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,Chicago Bulls,San Antonio Spurs,78,82,55,43,1,1,0.6748
+SIM0669,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,Orlando Magic,Utah Jazz,81,76,40,16,1,1,0.7595
+SIM0670,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Corwin,,Boston Celtics,New York Knicks,82,84,43,37,1,1,0.5225
+SIM0671,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,Brooklyn Nets,New York Knicks,75,84,54,51,1,1,0.2081
+SIM0672,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Sam,,Chicago Bulls,Milwaukee Bucks,78,81,39,38,1,1,0.4199
+SIM0673,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,Houston Rockets,Boston Celtics,83,82,54,35,1,1,0.7238
+SIM0674,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,Orlando Magic,Brooklyn Nets,81,75,57,33,1,1,0.8515
+SIM0675,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ben,,Golden State Warriors,Atlanta Hawks,82,80,43,33,1,1,0.3452
+SIM0676,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,Toronto Raptors,Detroit Pistons,79,82,34,42,2,0,0.1941
+SIM0677,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Dbart,,Chicago Bulls,Dallas Mavericks,78,83,42,29,1,1,0.7041
+SIM0678,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Brian,,Utah Jazz,Dallas Mavericks,76,83,46,25,1,1,0.4642
+SIM0679,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Dbart,,Miami Heat,Sacramento Kings,80,79,45,30,1,1,0.7589
+SIM0680,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Jackson,,Charlotte Hornets,Sacramento Kings,78,79,22,46,2,0,0.2762
+SIM0681,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Jackson,,Sacramento Kings,Denver Nuggets,79,83,25,30,2,0,0.3237
+SIM0682,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,Memphis Grizzlies,New Orleans Pelicans,80,78,46,48,2,0,0.3452
+SIM0683,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ryan,,Utah Jazz,Chicago Bulls,76,78,41,31,1,1,0.387
+SIM0684,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Brian,,Boston Celtics,Minnesota Timberwolves,82,82,44,22,1,1,0.783
+SIM0685,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ryan,,Utah Jazz,Cleveland Cavaliers,76,83,41,47,2,0,0.2939
+SIM0686,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ryan,,Toronto Raptors,New York Knicks,79,84,37,36,1,1,0.4875
+SIM0687,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Corwin,,New York Knicks,Detroit Pistons,84,82,35,26,1,1,0.7985
+SIM0688,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ben,,Orlando Magic,Portland Trail Blazers,81,78,37,44,2,0,0.2769
+SIM0689,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Corwin,,Brooklyn Nets,New York Knicks,75,84,40,50,2,0,0.5777
+SIM0690,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ben,,Los Angeles Lakers,Orlando Magic,83,81,33,50,2,0,0.3452
+SIM0691,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Paul,,Utah Jazz,Houston Rockets,76,83,46,28,1,1,0.2939
+SIM0692,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,Washington Wizards,Houston Rockets,75,83,32,61,2,0,0.1864
+SIM0693,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ryan,,Denver Nuggets,Brooklyn Nets,83,75,58,30,1,1,0.6357
+SIM0694,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Max,,Cleveland Cavaliers,Boston Celtics,83,82,45,37,1,1,0.4207
+SIM0695,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Paul,,Phoenix Suns,Milwaukee Bucks,81,81,35,34,1,1,0.6755
+SIM0696,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Jackson,,Miami Heat,New Orleans Pelicans,80,78,39,51,2,0,0.2676
+SIM0697,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Max,,Brooklyn Nets,Utah Jazz,75,76,34,27,1,1,0.3551
+SIM0698,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Corwin,,Utah Jazz,Chicago Bulls,76,78,44,31,1,1,0.6949
+SIM0699,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,Sacramento Kings,New Orleans Pelicans,79,78,30,35,2,0,0.3348
+SIM0700,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Jackson,,Miami Heat,Atlanta Hawks,80,80,47,35,1,1,0.2856
+SIM0701,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,Washington Wizards,Boston Celtics,75,82,37,31,1,1,0.6434
+SIM0702,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,Milwaukee Bucks,Sacramento Kings,81,79,33,45,2,0,0.4321
+SIM0703,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Jackson,,San Antonio Spurs,Portland Trail Blazers,82,78,27,36,2,0,0.4102
+SIM0704,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ben,,Cleveland Cavaliers,Washington Wizards,83,75,46,26,1,1,0.6357
+SIM0705,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Paul,,Denver Nuggets,Charlotte Hornets,83,78,37,29,1,1,0.5125
+SIM0706,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ryan,,Orlando Magic,Minnesota Timberwolves,81,82,49,23,1,1,0.6652
+SIM0707,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Jackson,,Golden State Warriors,Charlotte Hornets,82,78,33,36,2,0,0.2176
+SIM0708,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Jackson,,San Antonio Spurs,New Orleans Pelicans,82,78,37,44,2,0,0.3666
+SIM0709,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ben,,Philadelphia 76ers,Washington Wizards,81,75,40,43,2,0,0.6563
+SIM0710,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Sam,,Chicago Bulls,Sacramento Kings,78,79,33,44,2,0,0.4428
+SIM0711,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,Oklahoma City Thunder,Dallas Mavericks,85,83,25,44,2,0,0.2333
+SIM0712,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,Miami Heat,Los Angeles Clippers,80,83,35,40,2,0,0.685
+SIM0713,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Paul,,Philadelphia 76ers,San Antonio Spurs,81,82,32,44,2,0,0.4428
+SIM0714,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Paul,,Phoenix Suns,Los Angeles Clippers,81,83,56,42,1,1,0.6122
+SIM0715,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Paul,,Toronto Raptors,Washington Wizards,79,75,45,44,1,1,0.5915
+SIM0716,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Paul,,Oklahoma City Thunder,Minnesota Timberwolves,85,82,61,35,1,1,0.666
+SIM0717,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Paul,,Los Angeles Lakers,Memphis Grizzlies,83,80,46,26,1,1,0.4436
+SIM0718,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,Philadelphia 76ers,Portland Trail Blazers,81,78,35,51,2,0,0.4436
+SIM0719,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Corwin,,Minnesota Timberwolves,Washington Wizards,82,75,44,32,1,1,0.8334
+SIM0720,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ben,,Philadelphia 76ers,Houston Rockets,81,83,50,62,2,0,0.387
+SIM0721,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Paul,,Philadelphia 76ers,San Antonio Spurs,81,82,38,41,2,0,0.3981
+SIM0722,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Jackson,,Utah Jazz,Los Angeles Lakers,76,83,31,44,2,0,0.1666
+SIM0723,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Jackson,,New Orleans Pelicans,Los Angeles Lakers,78,83,31,44,2,0,0.2755
+SIM0724,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Paul,,Boston Celtics,Los Angeles Clippers,82,83,38,40,2,0,0.5793
+SIM0725,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Max,,Orlando Magic,Portland Trail Blazers,81,78,32,44,2,0,0.315
+SIM0726,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Max,,Miami Heat,Minnesota Timberwolves,80,82,27,52,2,0,0.2327
+SIM0727,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ben,,Detroit Pistons,Toronto Raptors,82,79,29,41,2,0,0.4436
+SIM0728,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ben,,Los Angeles Clippers,Atlanta Hawks,83,80,38,32,1,1,0.4892
+SIM0729,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Ryan,,Los Angeles Clippers,Orlando Magic,83,81,37,32,1,1,0.6555
+SIM0730,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ryan,,Washington Wizards,Portland Trail Blazers,75,78,43,35,1,1,0.6441
+SIM0731,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Dbart,,Washington Wizards,Toronto Raptors,75,79,28,44,2,0,0.3651
+SIM0732,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Paul,,Houston Rockets,New York Knicks,83,84,41,37,1,1,0.3143
+SIM0733,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Paul,,Miami Heat,Denver Nuggets,80,83,48,55,2,0,0.5564
+SIM0734,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ben,,Boston Celtics,Cleveland Cavaliers,82,83,45,38,1,1,0.5793
+SIM0735,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,Minnesota Timberwolves,Toronto Raptors,82,79,43,49,2,0,0.3559
+SIM0736,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Max,,Golden State Warriors,Charlotte Hornets,82,78,31,42,2,0,0.2863
+SIM0737,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Paul,,Toronto Raptors,Houston Rockets,79,83,23,63,2,0,0.285
+SIM0738,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,Los Angeles Lakers,Detroit Pistons,83,82,35,50,2,0,0.3348
+SIM0739,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Dbart,,San Antonio Spurs,Los Angeles Lakers,82,83,39,40,2,0,0.4428
+SIM0740,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Corwin,,Phoenix Suns,New York Knicks,81,84,34,43,2,0,0.5108
+SIM0741,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Dbart,,Philadelphia 76ers,Brooklyn Nets,81,75,45,23,1,1,0.7337
+SIM0742,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ben,,Utah Jazz,Los Angeles Clippers,76,83,32,47,2,0,0.4642
+SIM0743,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,Utah Jazz,Chicago Bulls,76,78,52,37,1,1,0.6949
+SIM0744,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ben,,Atlanta Hawks,Brooklyn Nets,80,75,38,33,1,1,0.3775
+SIM0745,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Brian,,San Antonio Spurs,Detroit Pistons,82,82,45,13,1,1,0.7503
+SIM0746,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,Houston Rockets,Orlando Magic,83,81,38,33,1,1,0.733
+SIM0747,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Max,,Los Angeles Lakers,Minnesota Timberwolves,83,82,21,48,2,0,0.225
+SIM0748,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Sam,,Portland Trail Blazers,Orlando Magic,78,81,40,36,1,1,0.376
+SIM0749,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Sam,,Washington Wizards,Portland Trail Blazers,75,78,32,41,2,0,0.5564
+SIM0750,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Paul,,Boston Celtics,Golden State Warriors,82,82,34,44,2,0,0.4543
+SIM0751,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Max,,Memphis Grizzlies,Detroit Pistons,80,82,31,54,2,0,0.387
+SIM0752,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Max,,Indiana Pacers,Boston Celtics,82,82,18,49,2,0,0.4093
+SIM0753,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Corwin,,Philadelphia 76ers,Houston Rockets,81,83,43,32,1,1,0.5679
+SIM0754,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Jackson,,Cleveland Cavaliers,New York Knicks,83,84,32,43,2,0,0.3551
+SIM0755,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Jackson,,Houston Rockets,Charlotte Hornets,83,78,41,47,2,0,0.4215
+SIM0756,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,Atlanta Hawks,Oklahoma City Thunder,80,85,41,43,2,0,0.2755
+SIM0757,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,New Orleans Pelicans,San Antonio Spurs,78,82,40,37,1,1,0.7824
+SIM0758,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Ben,,Cleveland Cavaliers,Los Angeles Clippers,83,83,31,40,2,0,0.2497
+SIM0759,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ben,,Los Angeles Lakers,San Antonio Spurs,83,82,35,45,2,0,0.2953
+SIM0760,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Ryan,,Denver Nuggets,Brooklyn Nets,83,75,31,19,1,1,0.7157
+SIM0761,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ben,,Los Angeles Lakers,Portland Trail Blazers,83,78,50,38,1,1,0.6457
+SIM0762,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Sam,,Utah Jazz,Memphis Grizzlies,76,80,28,37,2,0,0.4085
+SIM0763,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ryan,,Chicago Bulls,Indiana Pacers,78,82,29,28,1,1,0.4085
+SIM0764,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Corwin,,Boston Celtics,New Orleans Pelicans,82,78,50,33,1,1,0.5915
+SIM0765,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Corwin,,Detroit Pistons,Miami Heat,82,80,51,26,1,1,0.7985
+SIM0766,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Max,,Oklahoma City Thunder,Sacramento Kings,85,79,32,44,2,0,0.2683
+SIM0767,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Ryan,,New York Knicks,Charlotte Hornets,84,78,44,35,1,1,0.4783
+SIM0768,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,Brooklyn Nets,Cleveland Cavaliers,75,83,38,36,1,1,0.6326
+SIM0769,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Corwin,,Dallas Mavericks,Cleveland Cavaliers,83,83,37,42,2,0,0.5457
+SIM0770,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Paul,,Portland Trail Blazers,Dallas Mavericks,78,83,36,56,2,0,0.6225
+SIM0771,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Brian,,Charlotte Hornets,New Orleans Pelicans,78,78,28,26,1,1,0.7144
+SIM0772,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Sam,,Charlotte Hornets,Atlanta Hawks,78,80,49,37,1,1,0.3445
+SIM0773,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Ryan,,Phoenix Suns,Indiana Pacers,81,82,46,40,1,1,0.7047
+SIM0774,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Dbart,,Milwaukee Bucks,Denver Nuggets,81,83,42,28,1,1,0.5225
+SIM0775,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,New Orleans Pelicans,Washington Wizards,78,75,39,40,2,0,0.666
+SIM0776,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,Toronto Raptors,Atlanta Hawks,79,80,38,40,2,0,0.3551
+SIM0777,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Dbart,,Washington Wizards,San Antonio Spurs,75,82,45,37,1,1,0.6434
+SIM0778,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Dbart,,Golden State Warriors,Indiana Pacers,82,82,27,37,2,0,0.5457
+SIM0779,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Dbart,,Los Angeles Clippers,Boston Celtics,83,82,40,41,2,0,0.6857
+SIM0780,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Jackson,,Milwaukee Bucks,Portland Trail Blazers,81,78,37,38,2,0,0.2097
+SIM0781,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Max,,Indiana Pacers,Denver Nuggets,82,83,40,45,2,0,0.5341
+SIM0782,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Jackson,,Milwaukee Bucks,Minnesota Timberwolves,81,82,43,27,1,1,0.3981
+SIM0783,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Dbart,,Oklahoma City Thunder,Denver Nuggets,85,83,37,40,2,0,0.6555
+SIM0784,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Brian,,Jackson,,New York Knicks,Miami Heat,84,80,39,53,2,0,0.2176
+SIM0785,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ben,,Charlotte Hornets,Cleveland Cavaliers,78,83,32,39,2,0,0.2755
+SIM0786,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Jackson,,Los Angeles Clippers,Brooklyn Nets,83,75,33,34,2,0,0.3674
+SIM0787,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Max,,Ryan,,Cleveland Cavaliers,Houston Rockets,83,83,34,43,2,0,0.6755
+SIM0788,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Ryan,,Detroit Pistons,Golden State Warriors,82,82,35,46,2,0,0.4543
+SIM0789,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Ben,,New Orleans Pelicans,Washington Wizards,78,75,25,39,2,0,0.3989
+SIM0790,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Paul,,New York Knicks,Oklahoma City Thunder,84,85,53,27,1,1,0.6652
+SIM0791,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ryan,,Chicago Bulls,Indiana Pacers,78,82,28,41,2,0,0.5449
+SIM0792,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Dbart,,Sacramento Kings,Chicago Bulls,79,78,35,12,1,1,0.5572
+SIM0793,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Ben,,Milwaukee Bucks,Orlando Magic,81,81,45,48,2,0,0.4093
+SIM0794,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Corwin,,Sam,,Boston Celtics,Minnesota Timberwolves,82,82,43,41,1,1,0.3245
+SIM0795,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ben,,Corwin,,Washington Wizards,Utah Jazz,75,76,43,30,1,1,0.7047
+SIM0796,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Jackson,,Brian,,Detroit Pistons,Toronto Raptors,82,79,46,45,1,1,0.8329
+SIM0797,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Ryan,,Max,,Philadelphia 76ers,Atlanta Hawks,81,80,18,48,2,0,0.3348
+SIM0798,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Paul,,Jackson,,Detroit Pistons,New York Knicks,82,84,21,22,2,0,0.3044
+SIM0799,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Dbart,,Brian,,Houston Rockets,Toronto Raptors,83,79,33,32,1,1,0.6349
+SIM0800,synthetic,1v1,current,NBA 2K26-inspired; assumed strengths,180,4,False,False,Sam,,Ryan,,Orlando Magic,San Antonio Spurs,81,82,34,28,1,1,0.5793

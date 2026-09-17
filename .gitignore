@@ -27,6 +27,7 @@ models/easyocr/*.pth
 # Generated data
 # =========================
 data/processed/images/*
+data/processed/*.jsonl
 
 # =========================
 # Trained prediction models
