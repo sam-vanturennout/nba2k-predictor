@@ -1,2 +1,47 @@
-# Downloaded EasyOCR model weights and custom-network cache.
-/models/easyocr/
+# =========================
+# Python virtual environment
+# =========================
+.venv/
+venv/
+
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# EasyOCR model weights
+# =========================
+models/easyocr/*.pth
+
+# =========================
+# Generated data
+# =========================
+data/processed/images/*
+
+# =========================
+# Trained prediction models
+# =========================
+models/*.pkl
+models/*.joblib
+
+# =========================
+# Operating system files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
