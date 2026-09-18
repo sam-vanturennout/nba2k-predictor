@@ -10,6 +10,26 @@ Run from the project root (EasyOCR weights download on first use):
 .venv/Scripts/python.exe -m unittest discover -s tests
 ```
 
+## Preview live gameplay
+
+Connect the Xbox through the splitter and Guermok USB capture card, then run
+this command from the project root in PowerShell:
+
+```powershell
+.\.venv\Scripts\python.exe -m src.vision.live_capture --device 0
+```
+
+Change `--device` if the card uses another OpenCV index. The preview requests
+1920 x 1080 at 60 FPS and prints the frame size it receives and the FPS reported
+by the device. Press Q in the OpenCV window to exit. If OBS has exclusive access
+to the card, close its capture source before running the preview.
+
+The preview does not run OCR. For later OCR integration, call
+`normalize_frame(frame)` from `src.vision.live_capture` before
+`crop_scoreboard(frame)`, then pass the resulting crop dictionary to
+`extract_game_state()`. The fixed crop coordinates expect 1672 x 941 pixels;
+recognition on resized live frames still needs validation against actual gameplay.
+
 `scoreboard.py` owns crop coordinates; `test_image.py` saves the five crops.
 `ocr.py` caches the EasyOCR reader and exposes `read_game_clock`, `read_quarter`,
 `read_score`, and `extract_game_state`. Field readers accept paths or OpenCV arrays.
